@@ -18,13 +18,13 @@ A set of 452 books (their first volume) from the British Library (mostly from th
 
 Source: https://data.bl.uk/digbks
 
-**ADD CREDITS HERE for the enriched metadata files!**
+The extra metadata with book type and genre information was kindly made available by Christin Hoene <C.Hoene@kent.ac.uk>.
 
 ### Contents
 
 * [Sample dataset folder](bl_books/sample) with:
     - [Catalog metadata](bl_books/sample/book_data_sample.json)
-    - [Enriched metadata](bl_books/sample/MicrosoftBooks_filtered_list_sample.csv)
+    - [Enriched metadata](bl_books/sample/data/bl_books/sample/extra_metadatasample.csv)
     - [Fulltext files](bl_books/sample/full_texts)
 * [Sample tidy dataset folder](bl_books/sample_tidy) this is the tidy version of the sample dataset. We create it as part of class 2.1. It includes:
     - [book dataframe](bl_books/sample_tidy/df_book.csv)
@@ -32,8 +32,8 @@ Source: https://data.bl.uk/digbks
     - [author dataframe](bl_books/sample_tidy/df_author.csv)
     - [author-book dataframe](bl_books/sample_tidy/df_author_book.csv)
 * [Original metadata (compressed)](bl_books/book_metadata.zip) contains catalog metadata for every book in the full dataset.
-* [Original enriched metadata (csv)](bl_books/MicrosoftBooks_filtered_list.csv) contains the enriched metadata for every book in the full dataset (amnd more).
-* [Original enriched metadata (xls)](bl_books/MicrosoftBooks_filtered_list.xls) contains the enriched metadata for every book in the full dataset (amnd more).
+* [Original enriched metadata (csv)](bl_books/data/bl_books/sample/extra_metadata_sample.csv) contains the enriched metadata for every book in the full dataset (amnd more).
+* [Original enriched metadata (xls)](bl_books/data/bl_books/sample/extra_metadata_sample.xls) contains the enriched metadata for every book in the full dataset (amnd more).
 
 ### How we created the sample
 
