@@ -49,3 +49,9 @@ Reference paper: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7
 ## Oxford English Dictionary
 
 TBD.
+
+## Alto XML
+
+The four alto XML files contained in `data/altoxml/` are part of the [ALTO XML reference samples collection](https://github.com/altoxml/reference_samples). 
+
+
