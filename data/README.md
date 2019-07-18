@@ -50,7 +50,8 @@ A set of contracts of apprenticeship from the records of the Archives of Venice.
 
 Download from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652855.svg)](https://doi.org/10.5281/zenodo.2652855)
 
-Reference paper: https://www.researchgate.net/publication/318284139_Apprenticeship_in_Early_Modern_Venice
+Reference paper: https://www.researchgate.net/publication/318284139_Apprenticeship_in_Early_Modern_Venice.
+
 To read more about this data, see the [project website](https://garzoni.hypotheses.org).
 
 ## Early African-American Film Database, 1909–1930
@@ -73,11 +74,12 @@ A set of transactions of crypto artworks from the [SuperRare gallery](https://su
 
 This dataset contains four networks in [GraphML format](http://graphml.graphdrawing.org):
 * [Undirected sale network](crypto_art/undirSaleNet.graphml): An undirected network with information about how much total Ether (ETH) was exchanged between two users via sales.
-* [Directed sale network](saleNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual sale transaction. The graph is thus a multigraph.
-* [Directed bid network](bidNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual bid transaction. The graph is thus a multigraph. A bid may or may not be accepted and result in a sale.
+* [Directed sale network](crypto_art/saleNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual sale transaction. The graph is thus a multigraph.
+* [Directed bid network](crypto_art/bidNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual bid transaction. The graph is thus a multigraph. A bid may or may not be accepted and result in a sale.
 
 *Hint: you might want to try Gephi, networkx or igraph to explore this dataset.*
 
 Reference paper: **ADD**
+
 Also see the paper's [original repository](https://github.com/Giovanni1085/art_metrics_public).
 
