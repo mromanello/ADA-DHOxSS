@@ -37,7 +37,7 @@ The extra metadata with book type and genre information was kindly made availabl
 
 ### How we created the sample
 
-We used the extra metadata file to pick books in English, and sample 120 books for each of the four categories provided there: prose, poetry, music and drama. We only picked the first volumes for books with more than one volume. Some of the books in the sample did not have an associated fulltext, hence we dropped them, resulting in 452 books/volumes. 
+We used the extra metadata file to pick books in English, and sample 120 books for each of the four categories provided there: prose, poetry, music and drama. We only picked the first volumes for books with more than one volume. Some of the books in the sample did not have an associated fulltext, hence we dropped them, resulting in 452 books/volumes.
 
 More details are given in the [BL_sample notebook](bl_books/BL_sample.ipynb).
 
@@ -49,7 +49,19 @@ Reference paper: https://www.researchgate.net/publication/318284139_Apprenticesh
 
 ## Early African-American Film Database, 1909–1930
 
+This project was created by UCLA students and faculty members  to reconstruct and revive the history of early African-American silent race films.
+
+This dataset contains information on films, actors, production companies, and other aspects of early silent-era African American race films. It is intended to allow the public to learn about this period in film history that is too rarely discussed.
+
+
+
+Download from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.org/badge/latestdoi/62099402)
+
+**NB**: when running notebooks via `binder` the dataset is downloaded (its GitHub repository is cloned), so as to have always the latest dataset version (it's the preferable practice when dealing with existing datasets). If you don't use `binder`, make sure you clone the repo into `data/af-am-films/`.
+
 Reference paper: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7
+
+To read more about this data, see the [project website](http://dhbasecamp.humanities.ucla.edu/afamfilm/).
 
 ## Oxford English Dictionary
 
