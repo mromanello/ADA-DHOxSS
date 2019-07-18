@@ -69,4 +69,15 @@ To read more about this data, see the [project website](http://dhbasecamp.humani
 
 ## Crypto art transactions
 
-A set of transactions of crypto artworks from the [SuperRare gallery](https://superrare.co).
+A set of transactions of crypto artworks from the [SuperRare gallery](https://superrare.co), roughly from April 2018 to April 2019.
+
+This dataset contains four networks in [GraphML format](http://graphml.graphdrawing.org):
+* [Undirected sale network](crypto_art/undirSaleNet.graphml): An undirected network with information about how much total Ether (ETH) was exchanged between two users via sales.
+* [Directed sale network](saleNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual sale transaction. The graph is thus a multigraph.
+* [Directed bid network](bidNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual bid transaction. The graph is thus a multigraph. A bid may or may not be accepted and result in a sale.
+
+*Hint: you might want to try Gephi, networkx or igraph to explore this dataset.*
+
+Reference paper: **ADD**
+Also see the paper's [original repository](https://github.com/Giovanni1085/art_metrics_public).
+
