@@ -2,7 +2,10 @@
 
 ## Elon Musk's tweets
 
+A set of tweets from Elon Musk.
+
 Download from: https://query.data.world/s/i63ntyye4lzdjb3sfeor4ex7labc5j
+
 Source: https://data.world/adamhelsinger/elon-musk-tweets-until-4-6-17
 
 ```
@@ -14,44 +17,60 @@ Also see (for more Twitter datasets): https://github.com/shaypal5/awesome-twitte
 
 ## British Library 19th century books
 
-A set of 452 books (their first volume) from the British Library (mostly from the) 19th century books.
+A set of 452 books (their first volume) from the British Library, (mostly from the) 19th century.
 
 Source: https://data.bl.uk/digbks
 
-**ADD CREDITS HERE for the enriched metadata files!**
+The extra metadata with book type and genre information was kindly made available by Christin Hoene <C.Hoene@kent.ac.uk>.
 
 ### Contents
 
 * [Sample dataset folder](bl_books/sample) with:
     - [Catalog metadata](bl_books/sample/book_data_sample.json)
-    - [Enriched metadata](bl_books/sample/MicrosoftBooks_filtered_list_sample.csv)
+    - [Enriched metadata](bl_books/sample/data/bl_books/sample/extra_metadatasample.csv)
     - [Fulltext files](bl_books/sample/full_texts)
+* [Sample tidy dataset folder](bl_books/sample_tidy) this is the tidy version of the sample dataset. We create it as part of class 2.1. It includes:
+    - [book dataframe](bl_books/sample_tidy/df_book.csv)
+    - [book_text dataframe](bl_books/sample_tidy/df_book_text.csv)
+    - [author dataframe](bl_books/sample_tidy/df_author.csv)
+    - [author-book dataframe](bl_books/sample_tidy/df_author_book.csv)
 * [Original metadata (compressed)](bl_books/book_metadata.zip) contains catalog metadata for every book in the full dataset.
-* [Original enriched metadata (csv)](bl_books/MicrosoftBooks_filtered_list.csv) contains the enriched metadata for every book in the full dataset (amnd more).
-* [Original enriched metadata (xls)](bl_books/MicrosoftBooks_filtered_list.xls) contains the enriched metadata for every book in the full dataset (amnd more).
+* [Original enriched metadata (csv)](bl_books/data/bl_books/sample/extra_metadata_sample.csv) contains the enriched metadata for every book in the full dataset (amnd more).
+* [Original enriched metadata (xls)](bl_books/data/bl_books/sample/extra_metadata_sample.xls) contains the enriched metadata for every book in the full dataset (amnd more).
 
 ### How we created the sample
 
-We used the extra metadata file to pick books in English, and sample 120 books for each of the four categories provided there: prose, poetry, music and drama. We only picked the first volumes for books with more than one volume. Some of the books in the sample did not have an associated fulltext, hence we dropped them, resulting in 452 books/volumes. 
+We used the extra metadata file to pick books in English, and sample 120 books for each of the four categories provided there: prose, poetry, music and drama. We only picked the first volumes for books with more than one volume. Some of the books in the sample did not have an associated fulltext, hence we dropped them, resulting in 452 books/volumes.
 
 More details are given in the [BL_sample notebook](bl_books/BL_sample.ipynb).
 
 ## Contracts of apprenticeship in early modern Venice
 
-Download from: https://zenodo.org/record/2652855#.XP0bVi2ZNZI
+A set of contracts of apprenticeship from the records of the Archives of Venice. The contracts have been transcribed and then processed into a machine readable spreadsheet.
+
+Download from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652855.svg)](https://doi.org/10.5281/zenodo.2652855)
 
 Reference paper: https://www.researchgate.net/publication/318284139_Apprenticeship_in_Early_Modern_Venice
+To read more about this data, see the [project website](https://garzoni.hypotheses.org).
 
 ## Early African-American Film Database, 1909–1930
 
+This project was created by UCLA students and faculty members to reconstruct and revive the history of early African-American silent race films.
+
+This dataset contains information on films, actors, production companies, and other aspects of early silent-era African American race films. It is intended to allow the public to learn about this period in film history that is too rarely discussed.
+
+Download from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.org/badge/latestdoi/62099402)
+
+**NB**: when running notebooks via `binder` the dataset is downloaded (its GitHub repository is cloned), so as to have always the latest dataset version (it's the preferable practice when dealing with existing datasets). If you don't use `binder`, make sure you clone the repo into `data/af-am-films/`. We could do the same for some other datasets in this list. Which ones?
+
 Reference paper: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7
 
-## Oxford English Dictionary
+To read more about this data, see the [project website](http://dhbasecamp.humanities.ucla.edu/afamfilm/).
 
-TBD.
+## Crypto art transactions
+
+A set of transactions of crypto artworks from the [SuperRare gallery](https://superrare.co).
 
 ## Alto XML
 
-The four alto XML files contained in `data/altoxml/` are part of the [ALTO XML reference samples collection](https://github.com/altoxml/reference_samples). 
-
-
+The four alto XML files contained in `data/altoxml/` are part of the [ALTO XML reference samples collection](https://github.com/altoxml/reference_samples).
