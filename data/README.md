@@ -60,9 +60,7 @@ This project was created by UCLA students and faculty members to reconstruct and
 
 This dataset contains information on films, actors, production companies, and other aspects of early silent-era African American race films. It is intended to allow the public to learn about this period in film history that is too rarely discussed.
 
-Download from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.org/badge/latestdoi/62099402)
-
-**NB**: when running notebooks via `binder` the dataset is downloaded (its GitHub repository is cloned), so as to have always the latest dataset version (it's the preferable practice when dealing with existing datasets). If you don't use `binder`, make sure you clone the repo into `data/af-am-films/`. We could do the same for some other datasets in this list. Which ones?
+Downloaded from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.org/badge/latestdoi/62099402)
 
 Reference paper: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7
 
@@ -82,4 +80,3 @@ This dataset contains four networks in [GraphML format](http://graphml.graphdraw
 Reference paper: **ADD**
 
 Also see the paper's [original repository](https://github.com/Giovanni1085/art_metrics_public).
-
