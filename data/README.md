@@ -52,7 +52,7 @@ Download from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652855.svg)]
 
 Reference paper: https://www.researchgate.net/publication/318284139_Apprenticeship_in_Early_Modern_Venice.
 
-To read more about this data, see the [project website](https://garzoni.hypotheses.org).
+To read more about these data, see the [project website](https://garzoni.hypotheses.org).
 
 ## Early African-American Film Database, 1909–1930
 
@@ -64,7 +64,7 @@ Downloaded from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.
 
 Reference paper: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7
 
-To read more about this data, see the [project website](http://dhbasecamp.humanities.ucla.edu/afamfilm/).
+To read more about these data, see the [project website](http://dhbasecamp.humanities.ucla.edu/afamfilm/).
 
 ## Crypto art transactions
 
