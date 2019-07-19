@@ -77,6 +77,6 @@ This dataset contains four networks in [GraphML format](http://graphml.graphdraw
 
 *Hint: you might want to try Gephi, networkx or igraph to explore this dataset.*
 
-Reference paper: **ADD**
+Reference paper: https://arxiv.org/abs/1907.07758.
 
 Also see the paper's [original repository](https://github.com/Giovanni1085/art_metrics_public).
