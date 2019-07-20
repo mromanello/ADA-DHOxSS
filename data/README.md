@@ -79,4 +79,4 @@ This dataset contains four networks in [GraphML format](http://graphml.graphdraw
 
 Reference paper: https://arxiv.org/abs/1907.07758.
 
-Also see the paper's [original repository](https://github.com/Giovanni1085/art_metrics_public).
+Also see the paper's data and code release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3344713.svg)](https://doi.org/10.5281/zenodo.3344713).
