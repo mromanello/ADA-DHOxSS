@@ -26,8 +26,6 @@ Consider any dataset you like and perform an exploratory data analysis on it. St
 
 # Project ideas
 
-* Film database: MATTEO
+* African-American Film database: what can we learn about the production of African-American films by exploring this dataset? To what kind of sub-genres do these films belong to? Were these films produced by companies owned by white or african-american? Is there a trend on this respect, and if so how does it vary over time? Can you identify salient actors? Do e.g. actors tend to work in film companies with a specific ownership (white vs. african-american)?
 * Crypto art transactions: can you think about how to distinguish between users that are primarily collectors and artists? Who are the dominant collectors and artists? How is the market developing over time in number of transactions and their value? Can you predict an artist's future success?
 * BL books dataset: characterise the four genres using the provided dataset. Where and when are them published? Which words tend to be most associated with a given genre? Can a logistic regression classifier based just on metadata perform eauqlly well to one based on the full texts?
-
-

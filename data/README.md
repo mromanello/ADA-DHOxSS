@@ -50,7 +50,8 @@ A set of contracts of apprenticeship from the records of the Archives of Venice.
 
 Download from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2652855.svg)](https://doi.org/10.5281/zenodo.2652855)
 
-Reference paper: https://www.researchgate.net/publication/318284139_Apprenticeship_in_Early_Modern_Venice
+Reference paper: https://www.researchgate.net/publication/318284139_Apprenticeship_in_Early_Modern_Venice.
+
 To read more about this data, see the [project website](https://garzoni.hypotheses.org).
 
 ## Early African-American Film Database, 1909–1930
@@ -59,9 +60,7 @@ This project was created by UCLA students and faculty members to reconstruct and
 
 This dataset contains information on films, actors, production companies, and other aspects of early silent-era African American race films. It is intended to allow the public to learn about this period in film history that is too rarely discussed.
 
-Download from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.org/badge/latestdoi/62099402)
-
-**NB**: when running notebooks via `binder` the dataset is downloaded (its GitHub repository is cloned), so as to have always the latest dataset version (it's the preferable practice when dealing with existing datasets). If you don't use `binder`, make sure you clone the repo into `data/af-am-films/`. We could do the same for some other datasets in this list. Which ones?
+Downloaded from: [![DOI](https://zenodo.org/badge/62099402.svg)](https://zenodo.org/badge/latestdoi/62099402)
 
 Reference paper: https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7
 
@@ -69,8 +68,18 @@ To read more about this data, see the [project website](http://dhbasecamp.humani
 
 ## Crypto art transactions
 
-A set of transactions of crypto artworks from the [SuperRare gallery](https://superrare.co).
+A set of transactions of crypto artworks from the [SuperRare gallery](https://superrare.co), roughly from April 2018 to April 2019.
+
+This dataset contains four networks in [GraphML format](http://graphml.graphdrawing.org):
+* [Undirected sale network](crypto_art/undirSaleNet.graphml): An undirected network with information about how much total Ether (ETH) was exchanged between two users via sales.
+* [Directed sale network](crypto_art/saleNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual sale transaction. The graph is thus a multigraph.
+* [Directed bid network](crypto_art/bidNet.graphml): Same as above but directed and with an edge (+ timestamp) for every indivual bid transaction. The graph is thus a multigraph. A bid may or may not be accepted and result in a sale.
+
+*Hint: you might want to try Gephi, networkx or igraph to explore this dataset.*
+
+Also see the paper's [original repository](https://github.com/Giovanni1085/art_metrics_public).
 
 ## Alto XML
 
 The four alto XML files contained in `data/altoxml/` are part of the [ALTO XML reference samples collection](https://github.com/altoxml/reference_samples).
+>>>>>>> master

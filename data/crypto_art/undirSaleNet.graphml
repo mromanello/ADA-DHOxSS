@@ -1,0 +1,4520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_address" for="node" attr.name="address" attr.type="string"/>
+  <key id="v_artist" for="node" attr.name="artist" attr.type="double"/>
+  <key id="v_authority" for="node" attr.name="authority" attr.type="double"/>
+  <key id="v_sell" for="node" attr.name="sell" attr.type="double"/>
+  <key id="v_n_sell" for="node" attr.name="n_sell" attr.type="double"/>
+  <key id="v_collector" for="node" attr.name="collector" attr.type="double"/>
+  <key id="v_hub" for="node" attr.name="hub" attr.type="double"/>
+  <key id="v_buy" for="node" attr.name="buy" attr.type="double"/>
+  <key id="v_n_buy" for="node" attr.name="n_buy" attr.type="double"/>
+  <key id="e_price" for="edge" attr.name="price" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_id">1</data>
+      <data key="v_address">01a35017c1475e9c4daa88771ee5bc9ee427c28f</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.19675281480602</data>
+      <data key="v_hub">0.0109360532244137</data>
+      <data key="v_buy">1.28</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">2</data>
+      <data key="v_address">01cb023186cab05220554ee75b4d69921dd051f1</data>
+      <data key="v_artist">15.4559633827737</data>
+      <data key="v_authority">0.37872287375746</data>
+      <data key="v_sell">15.3266</data>
+      <data key="v_n_sell">38</data>
+      <data key="v_collector">1.92492138183313</data>
+      <data key="v_hub">0.00266514997086903</data>
+      <data key="v_buy">0.9</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">3</data>
+      <data key="v_address">0320de3378dcde180758ad2d41c0e1c6dcbb441d</data>
+      <data key="v_artist">3.88996013143538</data>
+      <data key="v_authority">0.0115851705705739</data>
+      <data key="v_sell">1.87</data>
+      <data key="v_n_sell">10</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.22632490552173e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">4</data>
+      <data key="v_address">04f487671975db0581afeb5fcccf500672806015</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.05715599403131</data>
+      <data key="v_hub">7.4688972560936e-05</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">5</data>
+      <data key="v_address">06ce30bd0e1520af542cd5f3a80ea2d1083a2888</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.48004927799724</data>
+      <data key="v_hub">0.02262354818261</data>
+      <data key="v_buy">1.6</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">6</data>
+      <data key="v_address">076e89fe9e24c191ebee53cceec5356600c8d059</data>
+      <data key="v_artist">1.36540227540062</data>
+      <data key="v_authority">0.000224948273832142</data>
+      <data key="v_sell">0.245</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1.02477288641756</data>
+      <data key="v_hub">2.60772322662618e-07</data>
+      <data key="v_buy">0.2</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">7</data>
+      <data key="v_address">085627c26cdc6fa43ad562e0eb636c1cec498493</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">5.44911947196246</data>
+      <data key="v_hub">0.0279459706236778</data>
+      <data key="v_buy">5.7184</data>
+      <data key="v_n_buy">11</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">8</data>
+      <data key="v_address">0b715ca8dc39e7f8a480d28d9822ae02f0a57008</data>
+      <data key="v_artist">3.6646422740617</data>
+      <data key="v_authority">0.0230050145435921</data>
+      <data key="v_sell">1.798999</data>
+      <data key="v_n_sell">9</data>
+      <data key="v_collector">1.23987493713137</data>
+      <data key="v_hub">0.000332016593472849</data>
+      <data key="v_buy">0.11111</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">9</data>
+      <data key="v_address">0d670d3cf94007639d0bd3f9286cea62f6271093</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.80010984056723</data>
+      <data key="v_hub">0.000163964718792303</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">10</data>
+      <data key="v_address">0da07e67c2ca3a3cfcb58af115e1c0ed64f69f96</data>
+      <data key="v_artist">1.93730400214599</data>
+      <data key="v_authority">0.0208347114175925</data>
+      <data key="v_sell">0.803456789</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.1082006180684e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n10">
+      <data key="v_id">11</data>
+      <data key="v_address">10017ca37b1257ac0771e24652aa28c758e378eb</data>
+      <data key="v_artist">1.91696647029318</data>
+      <data key="v_authority">0.0276256064263817</data>
+      <data key="v_sell">1.5</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">124.783583089573</data>
+      <data key="v_hub">1</data>
+      <data key="v_buy">162.760055789</data>
+      <data key="v_n_buy">260</data>
+    </node>
+    <node id="n11">
+      <data key="v_id">12</data>
+      <data key="v_address">10cfd6263d33428b9a87ada54284d6a5dccc1080</data>
+      <data key="v_artist">2.0926883132207</data>
+      <data key="v_authority">0.00535408765621622</data>
+      <data key="v_sell">0.65</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n12">
+      <data key="v_id">13</data>
+      <data key="v_address">123d956563261571569233624fbec7c9fe5a0af2</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.01188924127076</data>
+      <data key="v_hub">2.33045475686823e-18</data>
+      <data key="v_buy">0.35</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n13">
+      <data key="v_id">14</data>
+      <data key="v_address">135cc6b6d16593b032bfd8a9a027b2a6d04176f7</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.12636910463757</data>
+      <data key="v_hub">4.66303675992914e-07</data>
+      <data key="v_buy">0.08</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n14">
+      <data key="v_id">15</data>
+      <data key="v_address">1464d4e3c815de3028572b850c6c34dfc57e9320</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.4848848003224</data>
+      <data key="v_hub">0.00175055529251001</data>
+      <data key="v_buy">0.4</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n15">
+      <data key="v_id">16</data>
+      <data key="v_address">16aac3c06f7e4da97c29d0f14126517e37b9f43f</data>
+      <data key="v_artist">1.98508928170484</data>
+      <data key="v_authority">0.0138891920748245</data>
+      <data key="v_sell">0.95</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n16">
+      <data key="v_id">17</data>
+      <data key="v_address">16caab5371ae1ff9fb01617769ddeeb52460951e</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.66160349446407</data>
+      <data key="v_hub">0.00640784368617991</data>
+      <data key="v_buy">0.75</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n17">
+      <data key="v_id">18</data>
+      <data key="v_address">17f55f9d9f9ab3187060c07d4eaee2bd8e2b31dc</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.23189012279311</data>
+      <data key="v_hub">0.00109105796962937</data>
+      <data key="v_buy">0.15</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n18">
+      <data key="v_id">19</data>
+      <data key="v_address">191bbca32478b3ec3eb58f5569e6a86b8c6d92eb</data>
+      <data key="v_artist">4.3616402196201</data>
+      <data key="v_authority">0.109407842178061</data>
+      <data key="v_sell">3.58</data>
+      <data key="v_n_sell">6</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.6623009271026e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n19">
+      <data key="v_id">20</data>
+      <data key="v_address">198574b36647b05d925c152471d05aa0d5d3e1c0</data>
+      <data key="v_artist">2.06113111788102</data>
+      <data key="v_authority">0.000797443199506849</data>
+      <data key="v_sell">0.34</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n20">
+      <data key="v_id">21</data>
+      <data key="v_address">19e15a9fe6b97f5e01c697a53fe124d9151c96e4</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.11220038037226</data>
+      <data key="v_hub">0.00310674638543504</data>
+      <data key="v_buy">1.12</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n21">
+      <data key="v_id">22</data>
+      <data key="v_address">1a1136a351fb653df6af838442c9fdf44f2f42d8</data>
+      <data key="v_artist">3.0883947590093</data>
+      <data key="v_authority">0.0480748757839131</data>
+      <data key="v_sell">1.32</data>
+      <data key="v_n_sell">6</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.6623009271026e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n22">
+      <data key="v_id">23</data>
+      <data key="v_address">1b158330eb18839f50649f4cb8f49954214866a3</data>
+      <data key="v_artist">2.4520294972059</data>
+      <data key="v_authority">0.00716206320705267</data>
+      <data key="v_sell">2.7723</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1.19229805685752</data>
+      <data key="v_hub">0.000237837424184599</data>
+      <data key="v_buy">0.075</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n23">
+      <data key="v_id">24</data>
+      <data key="v_address">1cf4d277263024d212c49ae0afb1ac5e8ab04cf4</data>
+      <data key="v_artist">1.99357457879879</data>
+      <data key="v_authority">0.00749819918485884</data>
+      <data key="v_sell">4</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.99640779798787</data>
+      <data key="v_hub">0.000491894156376907</data>
+      <data key="v_buy">3</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n24">
+      <data key="v_id">25</data>
+      <data key="v_address">1d6f2f0356b3defadf14b1a0f8a3dcda89367d68</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.36517185976511</data>
+      <data key="v_hub">0.000472601537824368</data>
+      <data key="v_buy">0.22</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n25">
+      <data key="v_id">26</data>
+      <data key="v_address">1e341aa44c293d95d13d778492d417d1be4e63d5</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">3.42059272744795</data>
+      <data key="v_hub">0.0344591367896143</data>
+      <data key="v_buy">2.88</data>
+      <data key="v_n_buy">5</data>
+    </node>
+    <node id="n26">
+      <data key="v_id">27</data>
+      <data key="v_address">21316e6a4f0af45e5f1503984e83b10c53b177d8</data>
+      <data key="v_artist">27.4576021676052</data>
+      <data key="v_authority">1</data>
+      <data key="v_sell">45.4335</data>
+      <data key="v_n_sell">50</data>
+      <data key="v_collector">3.90708006081393</data>
+      <data key="v_hub">0.011577114112121</data>
+      <data key="v_buy">2.471</data>
+      <data key="v_n_buy">11</data>
+    </node>
+    <node id="n27">
+      <data key="v_id">28</data>
+      <data key="v_address">215fedd5780c39fbdadb4bc3700de61a8ffdd74a</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.4850633361798</data>
+      <data key="v_hub">0.0102007896856998</data>
+      <data key="v_buy">2.7</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n28">
+      <data key="v_id">29</data>
+      <data key="v_address">234ff6b1fe028fcc7cc9dbc52d0532d9e7ae7f2f</data>
+      <data key="v_artist">2.87868316291546</data>
+      <data key="v_authority">0.0173709650060725</data>
+      <data key="v_sell">0.616</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.21640123613681e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n29">
+      <data key="v_id">30</data>
+      <data key="v_address">249a1824bde336330bafbbbc3d6e7a4e60948a1e</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.57969048809021</data>
+      <data key="v_hub">0.00179290753382863</data>
+      <data key="v_buy">0.6</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n30">
+      <data key="v_id">31</data>
+      <data key="v_address">25981260dd48274abb39d48ed3cd96384522c217</data>
+      <data key="v_artist">4.91363058962618</data>
+      <data key="v_authority">0.104052670952313</data>
+      <data key="v_sell">4.17</data>
+      <data key="v_n_sell">7</data>
+      <data key="v_collector">1.95807242725549</data>
+      <data key="v_hub">0.00874899035620531</data>
+      <data key="v_buy">1.2</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n31">
+      <data key="v_id">32</data>
+      <data key="v_address">26c2c08cc58d7fa471ded745fcd0fdcedb282e17</data>
+      <data key="v_artist">8.75255863866465</data>
+      <data key="v_authority">0.0918805560941815</data>
+      <data key="v_sell">7.93</data>
+      <data key="v_n_sell">15</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.98744992764038e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n32">
+      <data key="v_id">33</data>
+      <data key="v_address">27d54e5487a6b64ce403f627c1d0843d469f8200</data>
+      <data key="v_artist">1.84073725199924</data>
+      <data key="v_authority">0.0219250265531537</data>
+      <data key="v_sell">0.6</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">2.32277313160087</data>
+      <data key="v_hub">0.00188933344456652</data>
+      <data key="v_buy">0.64</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n33">
+      <data key="v_id">34</data>
+      <data key="v_address">2b3ab8e7bb14988616359b78709538b10900ab7d</data>
+      <data key="v_artist">2.24881036432869</data>
+      <data key="v_authority">0.0248630457837438</data>
+      <data key="v_sell">1.35</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1.66825553186615</data>
+      <data key="v_hub">0.00176740886859671</data>
+      <data key="v_buy">1.1</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n34">
+      <data key="v_id">35</data>
+      <data key="v_address">2d90331b87246af3a99dfe2672ebd114d887be71</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">4.34216532416791</data>
+      <data key="v_hub">0.0374474729859332</data>
+      <data key="v_buy">3.6</data>
+      <data key="v_n_buy">7</data>
+    </node>
+    <node id="n35">
+      <data key="v_id">36</data>
+      <data key="v_address">2e0b873d26f6d90f347757ed0d041bc65e02a89f</data>
+      <data key="v_artist">1.32590416477109</data>
+      <data key="v_authority">8.40889127659406e-05</data>
+      <data key="v_sell">0.15</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n36">
+      <data key="v_id">37</data>
+      <data key="v_address">2f6c9365f7b6e74fa301425bbc766e549d4f5108</data>
+      <data key="v_artist">1.35155898684278</data>
+      <data key="v_authority">0.000581314209951663</data>
+      <data key="v_sell">0.2</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.45207203396387</data>
+      <data key="v_hub">0.00029034496152722</data>
+      <data key="v_buy">0.3</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n37">
+      <data key="v_id">38</data>
+      <data key="v_address">2fcc020f72e5d2edd2a24d04f3dc90d7fdfbd1dd</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.77800179221261</data>
+      <data key="v_hub">0.00380000722513178</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n38">
+      <data key="v_id">39</data>
+      <data key="v_address">304853db648d38ee7c8f800a8bf71b1da0ffcb5e</data>
+      <data key="v_artist">2.65500431832846</data>
+      <data key="v_authority">0.0206749882372462</data>
+      <data key="v_sell">2.03</data>
+      <data key="v_n_sell">6</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.6623009271026e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n39">
+      <data key="v_id">40</data>
+      <data key="v_address">32cee3fb2ecd101c4b6b6a0ecb5f4c283099a8d2</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.83621690698025</data>
+      <data key="v_hub">0.000164412862307482</data>
+      <data key="v_buy">0.605</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n40">
+      <data key="v_id">41</data>
+      <data key="v_address">335e19b3f5dcfa2e398ee7d5ff430a1f8ccc88b2</data>
+      <data key="v_artist">3.61558714617773</data>
+      <data key="v_authority">0.0351611648994071</data>
+      <data key="v_sell">2.156</data>
+      <data key="v_n_sell">7</data>
+      <data key="v_collector">12.6403236076252</data>
+      <data key="v_hub">0.0508080630745145</data>
+      <data key="v_buy">8.671</data>
+      <data key="v_n_buy">37</data>
+    </node>
+    <node id="n41">
+      <data key="v_id">42</data>
+      <data key="v_address">337101def3eeb6f06e071efe02216274507937bb</data>
+      <data key="v_artist">3.00690438087173</data>
+      <data key="v_authority">0.0262517899352464</data>
+      <data key="v_sell">3.7425559078239</data>
+      <data key="v_n_sell">5</data>
+      <data key="v_collector">10.2420799817476</data>
+      <data key="v_hub">0.0432190722627192</data>
+      <data key="v_buy">14.252</data>
+      <data key="v_n_buy">36</data>
+    </node>
+    <node id="n42">
+      <data key="v_id">43</data>
+      <data key="v_address">346270b749a111f5aa5cf2ffabb3f5e146ddb883</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.84381615883448</data>
+      <data key="v_hub">0.00284960943304521</data>
+      <data key="v_buy">0.65</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n43">
+      <data key="v_id">44</data>
+      <data key="v_address">35d9c1c4506594f9ec902015bec622be5ebc6c7d</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.25796676153112</data>
+      <data key="v_hub">7.27371979752941e-05</data>
+      <data key="v_buy">0.01</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n44">
+      <data key="v_id">45</data>
+      <data key="v_address">36bd6221c2016371c3af00071726578b91acb007</data>
+      <data key="v_artist">3.02933610434564</data>
+      <data key="v_authority">0.0455255034405702</data>
+      <data key="v_sell">1.46</data>
+      <data key="v_n_sell">5</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.11316245276087e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n45">
+      <data key="v_id">46</data>
+      <data key="v_address">37d6140e556d3730e366ae983de4f436addb3b62</data>
+      <data key="v_artist">1.85870840474984</data>
+      <data key="v_authority">0.00654819774075199</data>
+      <data key="v_sell">0.5</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n46">
+      <data key="v_id">47</data>
+      <data key="v_address">37d866f359f1104b67c40861c9f7b411c2287dff</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.01260850956676</data>
+      <data key="v_hub">3.12206633141953e-06</data>
+      <data key="v_buy">0.303</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n47">
+      <data key="v_id">48</data>
+      <data key="v_address">39c040b50a13894e19dfbb0af47ac9bade9926da</data>
+      <data key="v_artist">1.7596144251711</data>
+      <data key="v_authority">0.00922269822046705</data>
+      <data key="v_sell">0.575</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n48">
+      <data key="v_id">49</data>
+      <data key="v_address">39cc9c86e67baf2129b80fe3414c397492ea8026</data>
+      <data key="v_artist">34.9841125093122</data>
+      <data key="v_authority">0.902130186293355</data>
+      <data key="v_sell">44.78</data>
+      <data key="v_n_sell">56</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">9.2426168761414e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n49">
+      <data key="v_id">50</data>
+      <data key="v_address">3c558cb7f966e1d16abd720968f9398b2fa2a30e</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.26701450722299</data>
+      <data key="v_hub">3.00746433160982e-05</data>
+      <data key="v_buy">0.014</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n50">
+      <data key="v_id">51</data>
+      <data key="v_address">3d9456ad6463a77bd77123cb4836e463030bfab4</data>
+      <data key="v_artist">1.84109425011886</data>
+      <data key="v_authority">0.00924816665797729</data>
+      <data key="v_sell">3.06</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n51">
+      <data key="v_id">52</data>
+      <data key="v_address">406abd306b633b6460666b4092784a3330370c7b</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.25698061727904</data>
+      <data key="v_hub">0.000102367451479716</data>
+      <data key="v_buy">0.1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n52">
+      <data key="v_id">53</data>
+      <data key="v_address">408c76d8e3284338cda7fded97aaf833b7b2480d</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.36250959706418</data>
+      <data key="v_hub">2.85029084639556e-05</data>
+      <data key="v_buy">0.25</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n53">
+      <data key="v_id">54</data>
+      <data key="v_address">40941f5619974c639fe13fe977fd92805fc10ec3</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.02856654598456</data>
+      <data key="v_hub">0.00142321752986904</data>
+      <data key="v_buy">0.53</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n54">
+      <data key="v_id">55</data>
+      <data key="v_address">414b46fbd1d189cf22c177c85d13142fc6d9d2f4</data>
+      <data key="v_artist">1.36871296285465</data>
+      <data key="v_authority">0.000281182469432206</data>
+      <data key="v_sell">0.15</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n55">
+      <data key="v_id">56</data>
+      <data key="v_address">42156cd874edd7703c2063cee44dd6da8312c3d5</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.2876151388755</data>
+      <data key="v_hub">4.55089797995909e-05</data>
+      <data key="v_buy">0.08</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n56">
+      <data key="v_id">57</data>
+      <data key="v_address">4410bb5accef3848bc7b64131ceb3d54740682e8</data>
+      <data key="v_artist">7.02252507097731</data>
+      <data key="v_authority">0.092556315122556</data>
+      <data key="v_sell">6.18</data>
+      <data key="v_n_sell">12</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">3.32460185420521e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n57">
+      <data key="v_id">58</data>
+      <data key="v_address">44821f92d83c5b6055044ebf3de64574c894854a</data>
+      <data key="v_artist">3.42518509507215</data>
+      <data key="v_authority">0.0518101105294889</data>
+      <data key="v_sell">1.8</data>
+      <data key="v_n_sell">6</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.6623009271026e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n58">
+      <data key="v_id">59</data>
+      <data key="v_address">47709726b5bdc4c8c97de43691d93821d5b14103</data>
+      <data key="v_artist">3.61362906879052</data>
+      <data key="v_authority">0.00756256739548703</data>
+      <data key="v_sell">2.56</data>
+      <data key="v_n_sell">11</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.96760258887052e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n59">
+      <data key="v_id">60</data>
+      <data key="v_address">49e6f2d934077995cf4b24701fa5ae7f7b5e82e5</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.2872318230146</data>
+      <data key="v_hub">1.59616287398156e-05</data>
+      <data key="v_buy">0.14</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n60">
+      <data key="v_id">61</data>
+      <data key="v_address">4a7765c92149884dac1a7a60094efe5670af376a</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.10835453978246</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">2.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n61">
+      <data key="v_id">62</data>
+      <data key="v_address">4ad818a7b5eceea39d42dcd1cd75ecab3bfed6a4</data>
+      <data key="v_artist">4.50139439830871</data>
+      <data key="v_authority">0.0666596357802367</data>
+      <data key="v_sell">3.38</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.21640123613681e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n62">
+      <data key="v_id">63</data>
+      <data key="v_address">4af4aebe930e938fa11ad28cd2c88645cce739a1</data>
+      <data key="v_artist">12.6958750066202</data>
+      <data key="v_authority">0.198210533432691</data>
+      <data key="v_sell">10.18611</data>
+      <data key="v_n_sell">29</data>
+      <data key="v_collector">1.27815321556738</data>
+      <data key="v_hub">2.84431123748248e-05</data>
+      <data key="v_buy">0.05</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n63">
+      <data key="v_id">64</data>
+      <data key="v_address">4cc94028024bb109784690d71a4a010241aa6689</data>
+      <data key="v_artist">3.03860049374636</data>
+      <data key="v_authority">0.0044756583019052</data>
+      <data key="v_sell">1.1</data>
+      <data key="v_n_sell">7</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.15532710951768e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n64">
+      <data key="v_id">65</data>
+      <data key="v_address">4e6772b3d36cd45182cd93926b1de04172be9eaa</data>
+      <data key="v_artist">1.83304227540306</data>
+      <data key="v_authority">0.000176634425076396</data>
+      <data key="v_sell">0.68</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n65">
+      <data key="v_id">66</data>
+      <data key="v_address">509de581ff7d32b7c38e95122de8b3ca59da9159</data>
+      <data key="v_artist">1.64529224343894</data>
+      <data key="v_authority">0.000407825846685524</data>
+      <data key="v_sell">0.2</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n66">
+      <data key="v_id">67</data>
+      <data key="v_address">51c3016d6699480ec6becdf2155079c27ebae040</data>
+      <data key="v_artist">1.77836293323519</data>
+      <data key="v_authority">0.0184170709509213</data>
+      <data key="v_sell">1</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.99778347856229</data>
+      <data key="v_hub">0.012530070946379</data>
+      <data key="v_buy">0.9</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n67">
+      <data key="v_id">68</data>
+      <data key="v_address">530cf036ed4fa58f7301a9c788c9806624cefd19</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.51733802348359</data>
+      <data key="v_hub">0.000439629985434977</data>
+      <data key="v_buy">0.12</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n68">
+      <data key="v_id">69</data>
+      <data key="v_address">53884d6d5edc031cf063c36103710583631f0f3c</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.56965284658243</data>
+      <data key="v_hub">5.65757101558435e-05</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n69">
+      <data key="v_id">70</data>
+      <data key="v_address">5462dee16b3f4d240ebbe52c9c4214c912ccdda4</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.00714607303749</data>
+      <data key="v_hub">0.00499619884391776</data>
+      <data key="v_buy">1.5</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n70">
+      <data key="v_id">71</data>
+      <data key="v_address">55372173689c288552885d897d32f5f706f79aa6</data>
+      <data key="v_artist">8.1119757725371</data>
+      <data key="v_authority">0.210348305546874</data>
+      <data key="v_sell">17.375</data>
+      <data key="v_n_sell">11</data>
+      <data key="v_collector">4.45621624831988</data>
+      <data key="v_hub">0.0218980889990792</data>
+      <data key="v_buy">3.7</data>
+      <data key="v_n_buy">6</data>
+    </node>
+    <node id="n71">
+      <data key="v_id">72</data>
+      <data key="v_address">576a655161b5502dcf40602be1f3519a89b71658</data>
+      <data key="v_artist">13.9217292765232</data>
+      <data key="v_authority">0.290292576542595</data>
+      <data key="v_sell">18.20921</data>
+      <data key="v_n_sell">33</data>
+      <data key="v_collector">9.37780864357467</data>
+      <data key="v_hub">0.0191010617553819</data>
+      <data key="v_buy">7.017010101</data>
+      <data key="v_n_buy">30</data>
+    </node>
+    <node id="n72">
+      <data key="v_id">73</data>
+      <data key="v_address">58771b7ce13aac743954b751a5a3b74f4a32541f</data>
+      <data key="v_artist">1.19115530199466</data>
+      <data key="v_authority">1.65694863616593e-05</data>
+      <data key="v_sell">0.02</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n73">
+      <data key="v_id">74</data>
+      <data key="v_address">597d709fd3b6f39b78578f0536955ae86bc062ca</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.7794795799149</data>
+      <data key="v_hub">0.00185097387818836</data>
+      <data key="v_buy">0.45</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n74">
+      <data key="v_id">75</data>
+      <data key="v_address">5ab5844dd55ab73212d1527e4cf72fea884e39dd</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.68575175414964</data>
+      <data key="v_hub">0.0074978395080764</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n75">
+      <data key="v_id">76</data>
+      <data key="v_address">5ac843eecbf67669d4003aa49ae5e0136dc73365</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.98166104766466</data>
+      <data key="v_hub">0.00494858025388029</data>
+      <data key="v_buy">0.9</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n76">
+      <data key="v_id">77</data>
+      <data key="v_address">5acce70cae148b520ff36dcf177ee78ba54ebc04</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">3.50689677861017</data>
+      <data key="v_hub">0.0353608319620998</data>
+      <data key="v_buy">2.6</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n77">
+      <data key="v_id">78</data>
+      <data key="v_address">5b0d92e138422428d8e5afab8ee8f99ba9a4e613</data>
+      <data key="v_artist">19.0332017013651</data>
+      <data key="v_authority">0.566722863829481</data>
+      <data key="v_sell">21.811</data>
+      <data key="v_n_sell">38</data>
+      <data key="v_collector">4.04439621841759</data>
+      <data key="v_hub">0.0104644400961102</data>
+      <data key="v_buy">3.201</data>
+      <data key="v_n_buy">6</data>
+    </node>
+    <node id="n78">
+      <data key="v_id">79</data>
+      <data key="v_address">5c25aac680e826490c82cd5ea0c5dcb5ffe5b05a</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.28914013992469</data>
+      <data key="v_hub">3.66358321196014e-06</data>
+      <data key="v_buy">0.001</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n79">
+      <data key="v_id">80</data>
+      <data key="v_address">5cbb31e39ca93ca13d8e9f686bf749b14076bc65</data>
+      <data key="v_artist">3.85941945491445</data>
+      <data key="v_authority">0.0679019083174159</data>
+      <data key="v_sell">2.55</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.21640123613681e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n80">
+      <data key="v_id">81</data>
+      <data key="v_address">5f91a6795537bb179b6cce3e9032e5f861308460</data>
+      <data key="v_artist">1.00873058011982</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">2.1</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n81">
+      <data key="v_id">82</data>
+      <data key="v_address">5fae9d4b591f213b3ba75287f2cfac0883d17f7a</data>
+      <data key="v_artist">3.50813119240134</data>
+      <data key="v_authority">0.0271497686097755</data>
+      <data key="v_sell">2.75</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.1082006180684e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n82">
+      <data key="v_id">83</data>
+      <data key="v_address">60d38778adbbeeac88f741b833cbb9877228eea0</data>
+      <data key="v_artist">14.4424245569133</data>
+      <data key="v_authority">0.24301112099181</data>
+      <data key="v_sell">10.862</data>
+      <data key="v_n_sell">38</data>
+      <data key="v_collector">1.53664631802995</data>
+      <data key="v_hub">0.000307661979474496</data>
+      <data key="v_buy">0.451</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n83">
+      <data key="v_id">84</data>
+      <data key="v_address">62f7418c3ae08379b25a4b32c1f16e0e8758f9b1</data>
+      <data key="v_artist">1.30116075940243</data>
+      <data key="v_authority">0.000241319672059297</data>
+      <data key="v_sell">0.1</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.13214504454176</data>
+      <data key="v_hub">1.68421950016158e-05</data>
+      <data key="v_buy">0.0425559078239036</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n84">
+      <data key="v_id">85</data>
+      <data key="v_address">6426e7b1a621884bc185a46079abd759a1908051</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.84691443359281</data>
+      <data key="v_hub">0.00116137984610886</data>
+      <data key="v_buy">1.2</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n85">
+      <data key="v_id">86</data>
+      <data key="v_address">64c913639c3ed8983d8f3da487a3ca530e51e694</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.77542750510689</data>
+      <data key="v_hub">0.00727371979752915</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n86">
+      <data key="v_id">87</data>
+      <data key="v_address">65593b011d6c1726e02bfa17f1370aa3c5f95bb0</data>
+      <data key="v_artist">9.8092493006662</data>
+      <data key="v_authority">0.0683741723017164</data>
+      <data key="v_sell">8.176</data>
+      <data key="v_n_sell">20</data>
+      <data key="v_collector">1.41193146231468</data>
+      <data key="v_hub">0.000330928355950069</data>
+      <data key="v_buy">0.255</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n87">
+      <data key="v_id">88</data>
+      <data key="v_address">662ec70531509df61c8c8e44650c203f0ab79466</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.67342538042895</data>
+      <data key="v_hub">0.00969639834645952</data>
+      <data key="v_buy">2.4</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n88">
+      <data key="v_id">89</data>
+      <data key="v_address">6659c7b450158ed257b85f2473700bfec0ea0806</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.09866739809999</data>
+      <data key="v_hub">0.000155845830232519</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n89">
+      <data key="v_id">90</data>
+      <data key="v_address">66f174184b24b3dafa63c4c716c4fb9d251d598e</data>
+      <data key="v_artist">7.6427875549184</data>
+      <data key="v_authority">0.0641967626527959</data>
+      <data key="v_sell">9.57</data>
+      <data key="v_n_sell">20</data>
+      <data key="v_collector">1.13169205056622</data>
+      <data key="v_hub">0.000279264545078072</data>
+      <data key="v_buy">0.13</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n90">
+      <data key="v_id">91</data>
+      <data key="v_address">67201cb74b974b43f8083d32e290dca1eacd9382</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.00678036555448</data>
+      <data key="v_hub">1.89040796856545e-18</data>
+      <data key="v_buy">2.1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n91">
+      <data key="v_id">92</data>
+      <data key="v_address">674a378f73bef19dd70643fb3e4ab47d69a9b475</data>
+      <data key="v_artist">6.41586479482955</data>
+      <data key="v_authority">0.0680557549323895</data>
+      <data key="v_sell">5.36</data>
+      <data key="v_n_sell">21</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">6.60207721696115e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n92">
+      <data key="v_id">93</data>
+      <data key="v_address">6853a596d6d7264d3622546da3b891b6fe17eb82</data>
+      <data key="v_artist">3.05073129354874</data>
+      <data key="v_authority">0.058472591349634</data>
+      <data key="v_sell">2.25</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">17.2597117798941</data>
+      <data key="v_hub">0.055637958331153</data>
+      <data key="v_buy">16.4575</data>
+      <data key="v_n_buy">39</data>
+    </node>
+    <node id="n93">
+      <data key="v_id">94</data>
+      <data key="v_address">6954d0255cfed71d55ad8b371b4170b8bf7709dc</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.27756210948337</data>
+      <data key="v_hub">2.84431123747454e-05</data>
+      <data key="v_buy">0.05</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n94">
+      <data key="v_id">95</data>
+      <data key="v_address">69aad835cb3f62e435fc693443ce49bfe74b6dbe</data>
+      <data key="v_artist">3.65410089750212</data>
+      <data key="v_authority">0.035720850458223</data>
+      <data key="v_sell">2.2</data>
+      <data key="v_n_sell">7</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.15532710951768e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n95">
+      <data key="v_id">96</data>
+      <data key="v_address">6c8d601ce9850d6fa2179f8e65cc3ab63b5a5762</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.00600616769185</data>
+      <data key="v_hub">1.76910334941737e-06</data>
+      <data key="v_buy">0.1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n96">
+      <data key="v_id">97</data>
+      <data key="v_address">7056a5da7d269b31eb2e54e5579e41ef283d7d2c</data>
+      <data key="v_artist">1.29043423586244</data>
+      <data key="v_authority">1.87454979621469e-05</data>
+      <data key="v_sell">0.01</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n97">
+      <data key="v_id">98</data>
+      <data key="v_address">74b78e98093f5b522a7ebdac3b994641ca7c2b20</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.24531738323702</data>
+      <data key="v_hub">0.000366358321195811</data>
+      <data key="v_buy">0.1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n98">
+      <data key="v_id">99</data>
+      <data key="v_address">74ec638d8e82ab4e7aacac77ef47a49e735ca7dd</data>
+      <data key="v_artist">1.68039172493961</data>
+      <data key="v_authority">0.000683470203584107</data>
+      <data key="v_sell">0.643</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n99">
+      <data key="v_id">100</data>
+      <data key="v_address">756678bd0d2358d2198511c3adf50502fdf45597</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.13715269697589</data>
+      <data key="v_hub">1.85542248322877e-09</data>
+      <data key="v_buy">0.001</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n100">
+      <data key="v_id">101</data>
+      <data key="v_address">75d41cdb138c4125f89bef198fd3d865c5e42808</data>
+      <data key="v_artist">1.58802286573453</data>
+      <data key="v_authority">0.0130357381968567</data>
+      <data key="v_sell">0.335</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n101">
+      <data key="v_id">102</data>
+      <data key="v_address">7672b17d5eebb7194d57066f86fbcb4e85a7e10e</data>
+      <data key="v_artist">10.6663637166592</data>
+      <data key="v_authority">0.102841169011002</data>
+      <data key="v_sell">7.045</data>
+      <data key="v_n_sell">35</data>
+      <data key="v_collector">1.75314447746805</data>
+      <data key="v_hub">0.000957700201963582</data>
+      <data key="v_buy">0.18</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n102">
+      <data key="v_id">103</data>
+      <data key="v_address">77350e1152efd5f2d807a6124015c629a907155e</data>
+      <data key="v_artist">21.6150963111456</data>
+      <data key="v_authority">0.289065820418998</data>
+      <data key="v_sell">15.2455</data>
+      <data key="v_n_sell">56</data>
+      <data key="v_collector">6.8350358315519</data>
+      <data key="v_hub">0.0218569417479207</data>
+      <data key="v_buy">4.1334</data>
+      <data key="v_n_buy">16</data>
+    </node>
+    <node id="n103">
+      <data key="v_id">104</data>
+      <data key="v_address">7992951848ec94911d9c413a9fc53959dab8bc68</data>
+      <data key="v_artist">1.29083146710004</data>
+      <data key="v_authority">0.000232525683980662</data>
+      <data key="v_sell">0.08</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.64908068185425</data>
+      <data key="v_hub">0.00137447055153808</data>
+      <data key="v_buy">0.35</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n104">
+      <data key="v_id">105</data>
+      <data key="v_address">79f7c440b359dece7f2a74813a94c36e3aba740e</data>
+      <data key="v_artist">2.93007164099283</data>
+      <data key="v_authority">0.0124542630691848</data>
+      <data key="v_sell">2</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">1.57635903310683</data>
+      <data key="v_hub">5.65757101558527e-05</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n105">
+      <data key="v_id">106</data>
+      <data key="v_address">7d42611012fdbe366bf4a0481fc0e1abf15e245a</data>
+      <data key="v_artist">1.25773056526802</data>
+      <data key="v_authority">8.64871504010881e-05</data>
+      <data key="v_sell">0.45</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n106">
+      <data key="v_id">107</data>
+      <data key="v_address">7d6105d75c5e6a40791a50a52a92365545e9b112</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.79941447313307</data>
+      <data key="v_hub">0.000163964718792303</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n107">
+      <data key="v_id">108</data>
+      <data key="v_address">7dec37c03ea5ca2c47ad2509be6abaf8c63cdb39</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.13447743059909</data>
+      <data key="v_hub">0.000179794784195529</data>
+      <data key="v_buy">0.782</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n108">
+      <data key="v_id">109</data>
+      <data key="v_address">7e340f8bb5dafa15a16825e2a547ba8c04b297e6</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.4107176099395</data>
+      <data key="v_hub">3.42034901567451e-05</data>
+      <data key="v_buy">0.3</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n109">
+      <data key="v_id">110</data>
+      <data key="v_address">7ea92dbce5387f8ff480fe5d557abd4c7b09054f</data>
+      <data key="v_artist">2.54980749598423</data>
+      <data key="v_authority">0.0172664349665607</data>
+      <data key="v_sell">1.45</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">11.8368011678598</data>
+      <data key="v_hub">0.0235886924513985</data>
+      <data key="v_buy">15.8251</data>
+      <data key="v_n_buy">22</data>
+    </node>
+    <node id="n110">
+      <data key="v_id">111</data>
+      <data key="v_address">7ec5c34f817867b10ff34d76dbc7ac2b9240ce85</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.13698976218989</data>
+      <data key="v_hub">1.89040796856545e-18</data>
+      <data key="v_buy">0.15</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n111">
+      <data key="v_id">112</data>
+      <data key="v_address">7f67e80272d6349a70acd0a6d0dc169292431020</data>
+      <data key="v_artist">15.0899470512826</data>
+      <data key="v_authority">0.311389179990891</data>
+      <data key="v_sell">14.2</data>
+      <data key="v_n_sell">40</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.90529962208694e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n112">
+      <data key="v_id">113</data>
+      <data key="v_address">806c05ffe56f49358d958306c3f07f015148a621</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.12325508675276</data>
+      <data key="v_hub">4.71149418989299e-05</data>
+      <data key="v_buy">0.15</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n113">
+      <data key="v_id">114</data>
+      <data key="v_address">82aa7f697b9bc19f286d286d130405c0850a2e7b</data>
+      <data key="v_artist">2.07811913853534</data>
+      <data key="v_authority">0.00990846933052632</data>
+      <data key="v_sell">1.8</data>
+      <data key="v_n_sell">7</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.15532710951768e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n114">
+      <data key="v_id">115</data>
+      <data key="v_address">830e3a6766c753e041aa5b78e94213972a99d400</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.02141039338905</data>
+      <data key="v_hub">2.91439797494878e-07</data>
+      <data key="v_buy">0.05</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n115">
+      <data key="v_id">116</data>
+      <data key="v_address">83e5088ad8a728ca6329d385dc706d9353a05dea</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.0035455279286</data>
+      <data key="v_hub">0.000159656873902556</data>
+      <data key="v_buy">0.25</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n116">
+      <data key="v_id">117</data>
+      <data key="v_address">84e6bd4288650f5fff504c2659916de682aa3c8c</data>
+      <data key="v_artist">1.79680968607001</data>
+      <data key="v_authority">0.000967484864215426</data>
+      <data key="v_sell">0.575</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n117">
+      <data key="v_id">118</data>
+      <data key="v_address">860c4604fe1125ea43f81e613e7afb2aa49546aa</data>
+      <data key="v_artist">7.40695795499174</data>
+      <data key="v_authority">0.0108760325101304</data>
+      <data key="v_sell">15.841</data>
+      <data key="v_n_sell">13</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.97752625825545e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n118">
+      <data key="v_id">119</data>
+      <data key="v_address">865c2f85c9fea1c6ac7f53de07554d68cb92ed88</data>
+      <data key="v_artist">2.12437736787854</data>
+      <data key="v_authority">0.0304083863280508</data>
+      <data key="v_sell">0.88</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.1082006180684e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n119">
+      <data key="v_id">120</data>
+      <data key="v_address">88f78b27b0eab9cb2f9108808070c7aa1e6a88b8</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.24700030620742</data>
+      <data key="v_hub">0.000170668724616765</data>
+      <data key="v_buy">0.6</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n120">
+      <data key="v_id">121</data>
+      <data key="v_address">89add8c2d24467410e60e2c24aba31b8ab9e05d8</data>
+      <data key="v_artist">2.48198069948403</data>
+      <data key="v_authority">0.0203703042631855</data>
+      <data key="v_sell">1.6</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.1082006180684e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n121">
+      <data key="v_id">122</data>
+      <data key="v_address">89c010bc7085eb150b66582f13681f9e36904bea</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.16984003593347</data>
+      <data key="v_hub">5.49663156381182e-05</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n122">
+      <data key="v_id">123</data>
+      <data key="v_address">89c5dca00b9bf5ad746b91ec911c56cb4aee17f0</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">8.40501205436002</data>
+      <data key="v_hub">0.0262152138034373</data>
+      <data key="v_buy">9.51</data>
+      <data key="v_n_buy">13</data>
+    </node>
+    <node id="n123">
+      <data key="v_id">124</data>
+      <data key="v_address">89f2420190d752a29671dad303446cdbe8c2193a</data>
+      <data key="v_artist">5.48608955152777</data>
+      <data key="v_authority">0.086285788588742</data>
+      <data key="v_sell">4</data>
+      <data key="v_n_sell">10</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.22632490552173e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n124">
+      <data key="v_id">125</data>
+      <data key="v_address">8e23b400c603e1fd0990b69d7734531f6a0db334</data>
+      <data key="v_artist">2.24953343973633</data>
+      <data key="v_authority">0.000742378327608679</data>
+      <data key="v_sell">0.74</data>
+      <data key="v_n_sell">5</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.11316245276087e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n125">
+      <data key="v_id">126</data>
+      <data key="v_address">922e09cbb00ca5cacb1d09b38280f09b1e3cab4d</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.32515012229314</data>
+      <data key="v_hub">0.000429637761658517</data>
+      <data key="v_buy">0.2</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n126">
+      <data key="v_id">127</data>
+      <data key="v_address">92fab452e2f14c7730f79031906e06326c916946</data>
+      <data key="v_artist">2.45119785236225</data>
+      <data key="v_authority">0.0443519507442276</data>
+      <data key="v_sell">2.25</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1.39454022033991</data>
+      <data key="v_hub">0.000952362021639972</data>
+      <data key="v_buy">0.25</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n127">
+      <data key="v_id">128</data>
+      <data key="v_address">94ea44d8cb575032373a9925f794be48a2b806e7</data>
+      <data key="v_artist">1.13330441559571</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0.15</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.27748724286473</data>
+      <data key="v_hub">0.00145474395950583</data>
+      <data key="v_buy">0.2</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n128">
+      <data key="v_id">129</data>
+      <data key="v_address">958973a140f1e3ae91343e4aabf0de6ec50763b6</data>
+      <data key="v_artist">1.70175291694026</data>
+      <data key="v_authority">0.000851755403439211</data>
+      <data key="v_sell">0.4</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n129">
+      <data key="v_id">130</data>
+      <data key="v_address">974108626da1c3972f57d8d98a7793d3f378d3c7</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.00263926291788</data>
+      <data key="v_hub">4.72584346751586e-05</data>
+      <data key="v_buy">0.074</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n130">
+      <data key="v_id">131</data>
+      <data key="v_address">9787b715a9ea9ef26be9c03bb49664e357e279c9</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.29661132670396</data>
+      <data key="v_hub">0.000183179160597907</data>
+      <data key="v_buy">0.05</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n131">
+      <data key="v_id">132</data>
+      <data key="v_address">981276d81272f7cd8808701645741db1abacad56</data>
+      <data key="v_artist">6.73388947875312</data>
+      <data key="v_authority">0.164302798969737</data>
+      <data key="v_sell">6.204</data>
+      <data key="v_n_sell">12</data>
+      <data key="v_collector">1.68134623003444</data>
+      <data key="v_hub">0.00159205468108518</data>
+      <data key="v_buy">0.603</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n132">
+      <data key="v_id">133</data>
+      <data key="v_address">9993d3a6d5a26f1d37220fcb16947a8b16998c9f</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.42818476502033</data>
+      <data key="v_hub">0.00152743472023348</data>
+      <data key="v_buy">0.55</data>
+      <data key="v_n_buy">5</data>
+    </node>
+    <node id="n133">
+      <data key="v_id">134</data>
+      <data key="v_address">99edf1f758f70b4e27db284ec32ab8ad3b1fa2cf</data>
+      <data key="v_artist">4.70498763285061</data>
+      <data key="v_authority">0.0850833312409621</data>
+      <data key="v_sell">3.701</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.21640123613681e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n134">
+      <data key="v_id">135</data>
+      <data key="v_address">9a203e2e251849a26566ebf94043d74feeb0011c</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.28018350561072</data>
+      <data key="v_hub">0.000217894696036079</data>
+      <data key="v_buy">0.05</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n135">
+      <data key="v_id">136</data>
+      <data key="v_address">9a3e204bd2f012122b228fa68bf97539da965d3b</data>
+      <data key="v_artist">1.60671529906212</data>
+      <data key="v_authority">0.0119710961180989</data>
+      <data key="v_sell">0.65</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">2.84686547724506</data>
+      <data key="v_hub">0.00226535668388874</data>
+      <data key="v_buy">1.165</data>
+      <data key="v_n_buy">5</data>
+    </node>
+    <node id="n136">
+      <data key="v_id">137</data>
+      <data key="v_address">9b794360b929c58f9c2b58e9b722136b5f0788dd</data>
+      <data key="v_artist">1.52734880291304</data>
+      <data key="v_authority">0.00920853547546067</data>
+      <data key="v_sell">0.5</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n137">
+      <data key="v_id">138</data>
+      <data key="v_address">9b7c03efcc5638951d07647a583b5e390ebf8824</data>
+      <data key="v_artist">4.56463157967917</data>
+      <data key="v_authority">0.0725922184616066</data>
+      <data key="v_sell">6.1</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.21640123613681e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n138">
+      <data key="v_id">139</data>
+      <data key="v_address">9b9dffaad17cd0215e454dc0a6e221e7b6a16062</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.32825851153367</data>
+      <data key="v_hub">0.000356923813224941</data>
+      <data key="v_buy">2.56</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n139">
+      <data key="v_id">140</data>
+      <data key="v_address">9e30a1e5e13a2e0f2ed775bbd420fb7cb31ebebe</data>
+      <data key="v_artist">1.1818478428985</data>
+      <data key="v_authority">0.000363631916154011</data>
+      <data key="v_sell">0.3</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n140">
+      <data key="v_id">141</data>
+      <data key="v_address">9eec0b5bd8a48047f0dcc61e98b4b92951480f98</data>
+      <data key="v_artist">5.89110369650737</data>
+      <data key="v_authority">0.213505879665139</data>
+      <data key="v_sell">6.01</data>
+      <data key="v_n_sell">7</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.15532710951768e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n141">
+      <data key="v_id">142</data>
+      <data key="v_address">9ef4acc2fd5cde01ece05bd4e44732a023ed7845</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.54104798026561</data>
+      <data key="v_hub">0.00183179160597904</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n142">
+      <data key="v_id">143</data>
+      <data key="v_address">a02378ca1c24767ecd776aafec02158a30dc01ac</data>
+      <data key="v_artist">1.11113451177242</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">2.5</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n143">
+      <data key="v_id">144</data>
+      <data key="v_address">a4ad045d62a493f0ed883b413866448afb13087c</data>
+      <data key="v_artist">7.94270217326033</data>
+      <data key="v_authority">0.165787455015583</data>
+      <data key="v_sell">10.15</data>
+      <data key="v_n_sell">20</data>
+      <data key="v_collector">2.13554848329054</data>
+      <data key="v_hub">0.00106376486057582</data>
+      <data key="v_buy">0.451</data>
+      <data key="v_n_buy">5</data>
+    </node>
+    <node id="n144">
+      <data key="v_id">145</data>
+      <data key="v_address">a636e1a462f612e14adc20cb405d1727a6efca6a</data>
+      <data key="v_artist">1.18814977096003</data>
+      <data key="v_authority">5.0213657451292e-05</data>
+      <data key="v_sell">0.1</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">2.57426544597574</data>
+      <data key="v_hub">0.000946549714616141</data>
+      <data key="v_buy">2.2166</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n145">
+      <data key="v_id">146</data>
+      <data key="v_address">a9f153d96fd06fac8b76759f42ea2f6174ce4e0c</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.9116222738179</data>
+      <data key="v_hub">0.0221614027358027</data>
+      <data key="v_buy">1.47</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n146">
+      <data key="v_id">147</data>
+      <data key="v_address">ab3627317c43d394eb171170f818153b976d28a3</data>
+      <data key="v_artist">11.2826159294375</data>
+      <data key="v_authority">0.228640516242253</data>
+      <data key="v_sell">9.99</data>
+      <data key="v_n_sell">24</data>
+      <data key="v_collector">3.68516869030954</data>
+      <data key="v_hub">0.00880599634555492</data>
+      <data key="v_buy">2.43</data>
+      <data key="v_n_buy">7</data>
+    </node>
+    <node id="n147">
+      <data key="v_id">148</data>
+      <data key="v_address">ac75b73394c329376c214663d92156afa864a77f</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.53865600707726</data>
+      <data key="v_hub">0.00166539961463925</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n148">
+      <data key="v_id">149</data>
+      <data key="v_address">ae04070d8d10b235a87341a5943ce9d9c94232b6</data>
+      <data key="v_artist">6.0457966783228</data>
+      <data key="v_authority">0.0940067831625904</data>
+      <data key="v_sell">4.501011101</data>
+      <data key="v_n_sell">11</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.96760258887052e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n149">
+      <data key="v_id">150</data>
+      <data key="v_address">aeb70953077c1eceff54b0c65b2a3c54ed7ea185</data>
+      <data key="v_artist">1.43960172890366</data>
+      <data key="v_authority">0.00644597483282246</data>
+      <data key="v_sell">0.35</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">3.70807440506859</data>
+      <data key="v_hub">0.00435376146390143</data>
+      <data key="v_buy">1.153</data>
+      <data key="v_n_buy">10</data>
+    </node>
+    <node id="n150">
+      <data key="v_id">151</data>
+      <data key="v_address">b0bba976737b16aa75e6eb9ad331d5effeca3c8f</data>
+      <data key="v_artist">1.78564736525501</data>
+      <data key="v_authority">0.0225714857697663</data>
+      <data key="v_sell">2.5</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n151">
+      <data key="v_id">152</data>
+      <data key="v_address">b13c38273e001f0427c26f15b79b57db90606a91</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.16981369749756</data>
+      <data key="v_hub">0.00514263173896895</data>
+      <data key="v_buy">1.64</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n152">
+      <data key="v_id">153</data>
+      <data key="v_address">b25219a402f18160d30b7e827cf9f592989b081b</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.80709920031627</data>
+      <data key="v_hub">0.0016203607054893</data>
+      <data key="v_buy">0.43</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n153">
+      <data key="v_id">154</data>
+      <data key="v_address">b2f4b16595e02a9721f97e3e30fb5bbbf73f5f54</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">6.4115231130918</data>
+      <data key="v_hub">0.0110454548267746</data>
+      <data key="v_buy">4.8575</data>
+      <data key="v_n_buy">15</data>
+    </node>
+    <node id="n154">
+      <data key="v_id">155</data>
+      <data key="v_address">b3007ff3c3f40bdf0126fec7c8e43c3fc50ea813</data>
+      <data key="v_artist">15.6097073539616</data>
+      <data key="v_authority">0.252686562940175</data>
+      <data key="v_sell">15.771</data>
+      <data key="v_n_sell">36</data>
+      <data key="v_collector">13.1165410146338</data>
+      <data key="v_hub">0.0670130526753128</data>
+      <data key="v_buy">14.351</data>
+      <data key="v_n_buy">39</data>
+    </node>
+    <node id="n155">
+      <data key="v_id">156</data>
+      <data key="v_address">b308082a84f0cedabde8f8c019dc28c2140c9822</data>
+      <data key="v_artist">2.12372345759498</data>
+      <data key="v_authority">0.000386633019057037</data>
+      <data key="v_sell">0.404</data>
+      <data key="v_n_sell">17</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">4.47000529433796e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n156">
+      <data key="v_id">157</data>
+      <data key="v_address">b394f1aa30ba874df3ae6097bf4c2474b2d8f3ac</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">5.73894121573711</data>
+      <data key="v_hub">0.0192494445969952</data>
+      <data key="v_buy">4.92</data>
+      <data key="v_n_buy">14</data>
+    </node>
+    <node id="n157">
+      <data key="v_id">158</data>
+      <data key="v_address">b43cc3ae446c3418e755e4b873b96494841e232c</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.53876447928754</data>
+      <data key="v_hub">0.00183179160597904</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n158">
+      <data key="v_id">159</data>
+      <data key="v_address">b4f6ae2cca59f0ea3fb2559e32c61df753bb542a</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.39728797216312</data>
+      <data key="v_hub">3.35012276792951e-08</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n159">
+      <data key="v_id">160</data>
+      <data key="v_address">b50256eab69686cd95c41c903eb45e9a614f52ee</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.07422154272689</data>
+      <data key="v_hub">0.00218876923648032</data>
+      <data key="v_buy">2</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n160">
+      <data key="v_id">161</data>
+      <data key="v_address">b6b32ac9499921c86e191a5113779e4ebc3da958</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.69072151139233</data>
+      <data key="v_hub">0.00854379158157321</data>
+      <data key="v_buy">1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n161">
+      <data key="v_id">162</data>
+      <data key="v_address">b7734b5c378fd169d2b9720d0d5ac1a7b30f9fc9</data>
+      <data key="v_artist">7.56272820966103</data>
+      <data key="v_authority">0.00750550810529048</data>
+      <data key="v_sell">10.396</data>
+      <data key="v_n_sell">17</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">4.47000529433796e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n162">
+      <data key="v_id">163</data>
+      <data key="v_address">b7f6fc2745e66a1f75a6deb50b9f9dbf816cfdda</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.41463902305124</data>
+      <data key="v_hub">0.0011460188119969</data>
+      <data key="v_buy">0.48</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n163">
+      <data key="v_id">164</data>
+      <data key="v_address">b8903d33924b10b9cda7fd9505e395f1ae0b8532</data>
+      <data key="v_artist">1.97425163256846</data>
+      <data key="v_authority">0.00581314209951666</data>
+      <data key="v_sell">2</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">4.48871463156487</data>
+      <data key="v_hub">0.0429312796942817</data>
+      <data key="v_buy">7</data>
+      <data key="v_n_buy">6</data>
+    </node>
+    <node id="n164">
+      <data key="v_id">165</data>
+      <data key="v_address">b91e322219f17f365f93da46fe3057d561925d0a</data>
+      <data key="v_artist">5.68648700187227</data>
+      <data key="v_authority">0.116153412093425</data>
+      <data key="v_sell">4.49</data>
+      <data key="v_n_sell">9</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.22136307082927e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n165">
+      <data key="v_id">166</data>
+      <data key="v_address">b95f9f4a05e0b029010d624ae43ff7e762a15571</data>
+      <data key="v_artist">1.37679827196581</data>
+      <data key="v_authority">0.00650598114931667</data>
+      <data key="v_sell">0.15</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n166">
+      <data key="v_id">167</data>
+      <data key="v_address">b9fc543c9cba9ab4a76a702e25306ae2dd848c2f</data>
+      <data key="v_artist">3.41691996908516</data>
+      <data key="v_authority">0.0656411257031184</data>
+      <data key="v_sell">1.7</data>
+      <data key="v_n_sell">6</data>
+      <data key="v_collector">1.33263697355837</data>
+      <data key="v_hub">0.000322228321243905</data>
+      <data key="v_buy">0.15</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n167">
+      <data key="v_id">168</data>
+      <data key="v_address">baba92b7822a56c05554ab5d1bc1d0b7e212499d</data>
+      <data key="v_artist">2.50367088997209</data>
+      <data key="v_authority">0.0347362328009681</data>
+      <data key="v_sell">1.451</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">15.8045942448625</data>
+      <data key="v_hub">0.0549700460144686</data>
+      <data key="v_buy">15.221001</data>
+      <data key="v_n_buy">52</data>
+    </node>
+    <node id="n168">
+      <data key="v_id">169</data>
+      <data key="v_address">bb2aa379177a52f93089af262b98e9f298cde638</data>
+      <data key="v_artist">1.6352487499329</data>
+      <data key="v_authority">0.0128919496656449</data>
+      <data key="v_sell">0.7</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">2.13159785265416</data>
+      <data key="v_hub">0.0151552559924289</data>
+      <data key="v_buy">1.4</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n169">
+      <data key="v_id">170</data>
+      <data key="v_address">bc62985faabed27a8f174cbd5ea1ee7b1ed8fc12</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.07700604055691</data>
+      <data key="v_hub">2.40781393705113e-06</data>
+      <data key="v_buy">0.0223</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n170">
+      <data key="v_id">171</data>
+      <data key="v_address">bc74c3adc2aa6a85bda3eca5b0e235ca08532772</data>
+      <data key="v_artist">3.35977679633064</data>
+      <data key="v_authority">0.00617182165563704</data>
+      <data key="v_sell">5.15</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">5.18380511803102</data>
+      <data key="v_hub">0.0129248626511582</data>
+      <data key="v_buy">4.783</data>
+      <data key="v_n_buy">12</data>
+    </node>
+    <node id="n171">
+      <data key="v_id">172</data>
+      <data key="v_address">bc8dafeaca658ae0857c80d8aa6de4d487577c63</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.05207606818356</data>
+      <data key="v_hub">4.23908953328775e-07</data>
+      <data key="v_buy">0.125</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n172">
+      <data key="v_id">173</data>
+      <data key="v_address">c15aa7af05ee4bdd05b475688f912761cfa1df19</data>
+      <data key="v_artist">1.52752438208173</data>
+      <data key="v_authority">0.00920853547546067</data>
+      <data key="v_sell">0.5</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n173">
+      <data key="v_id">174</data>
+      <data key="v_address">c1ccf7456fd640473c383468df2c18a2e3d68ea5</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.5771863089628</data>
+      <data key="v_hub">0.000509181391402578</data>
+      <data key="v_buy">4.5</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n174">
+      <data key="v_id">175</data>
+      <data key="v_address">c7149e861a03454ccb66b552797a05c8d98994ba</data>
+      <data key="v_artist">5.36604691933515</data>
+      <data key="v_authority">0.0717476769512668</data>
+      <data key="v_sell">3.475</data>
+      <data key="v_n_sell">11</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.96760258887052e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n175">
+      <data key="v_id">176</data>
+      <data key="v_address">c72f3a0fedd9df54af271912f283cc0024c14197</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.56838870187692</data>
+      <data key="v_hub">0.000146015345051848</data>
+      <data key="v_buy">0.45</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n176">
+      <data key="v_id">177</data>
+      <data key="v_address">cd815dd7ebfd7eb46fc2858f040296b654cd6b81</data>
+      <data key="v_artist">3.7390539048688</data>
+      <data key="v_authority">0.0423611460762983</data>
+      <data key="v_sell">2.624</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1.58659486473062</data>
+      <data key="v_hub">0.000696578016733468</data>
+      <data key="v_buy">0.15</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n177">
+      <data key="v_id">178</data>
+      <data key="v_address">ce82ceaf7f9df2ddb36ad01a8d1783f26b41f73b</data>
+      <data key="v_artist">6.34839952034581</data>
+      <data key="v_authority">0.166656121672172</data>
+      <data key="v_sell">5.4</data>
+      <data key="v_n_sell">11</data>
+      <data key="v_collector">1.09477092459615</data>
+      <data key="v_hub">0.000469443607166653</data>
+      <data key="v_buy">0.1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n178">
+      <data key="v_id">179</data>
+      <data key="v_address">ceaa12eb3f45cb4d58b0f27512a286afeacaadcc</data>
+      <data key="v_artist">2.3426561884558</data>
+      <data key="v_authority">0.00729200086757086</data>
+      <data key="v_sell">1.75</data>
+      <data key="v_n_sell">3</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">8.31150463551302e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n179">
+      <data key="v_id">180</data>
+      <data key="v_address">ced2662fe30d876bef52f219eeac67e2b328effc</data>
+      <data key="v_artist">6.8472349418132</data>
+      <data key="v_authority">0.0732896177074741</data>
+      <data key="v_sell">4.25321</data>
+      <data key="v_n_sell">15</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.98744992764038e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n180">
+      <data key="v_id">181</data>
+      <data key="v_address">d04c453461a77b342fea9d1fec55861399401122</data>
+      <data key="v_artist">1.28706574871624</data>
+      <data key="v_authority">2.38661144819564e-06</data>
+      <data key="v_sell">0.001001</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.38018959196794</data>
+      <data key="v_hub">7.80506455440025e-05</data>
+      <data key="v_buy">0.051</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n181">
+      <data key="v_id">182</data>
+      <data key="v_address">d0c877b474cd51959931a7f70d7a6c60f50cdae7</data>
+      <data key="v_artist">10.7721412265862</data>
+      <data key="v_authority">0.482477044880099</data>
+      <data key="v_sell">14.41</data>
+      <data key="v_n_sell">21</data>
+      <data key="v_collector">1.79652317928972</data>
+      <data key="v_hub">0.000986519907891121</data>
+      <data key="v_buy">0.8</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n182">
+      <data key="v_id">183</data>
+      <data key="v_address">d6d6403ded517f2b7ab4fcbdc69b8718cdadb5cb</data>
+      <data key="v_artist">2.02567214686001</data>
+      <data key="v_authority">0.00110409782071009</data>
+      <data key="v_sell">0.94</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n183">
+      <data key="v_id">184</data>
+      <data key="v_address">d797d5784f43de300ec0d6bc34fc86023c5d71ce</data>
+      <data key="v_artist">1.38822645512669</data>
+      <data key="v_authority">0.000123073032830716</data>
+      <data key="v_sell">0.052</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n184">
+      <data key="v_id">185</data>
+      <data key="v_address">d7e1bc51cd3f30e21b17bab33d77078e3fb7cc26</data>
+      <data key="v_artist">10.9191596638607</data>
+      <data key="v_authority">0.142492674576436</data>
+      <data key="v_sell">8.0915</data>
+      <data key="v_n_sell">37</data>
+      <data key="v_collector">1.29722110822389</data>
+      <data key="v_hub">0.000559094224667048</data>
+      <data key="v_buy">1.1</data>
+      <data key="v_n_buy">5</data>
+    </node>
+    <node id="n185">
+      <data key="v_id">186</data>
+      <data key="v_address">da07c2cbf92e488960efd591f75d1cb00e9e64ed</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.44065715317619</data>
+      <data key="v_hub">5.23966593423407e-05</data>
+      <data key="v_buy">0.3</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n186">
+      <data key="v_id">187</data>
+      <data key="v_address">da5e56e6a41230ed87f39b7c65ede7a8373de403</data>
+      <data key="v_artist">11.7896948214034</data>
+      <data key="v_authority">0.252060336050807</data>
+      <data key="v_sell">13.665</data>
+      <data key="v_n_sell">22</data>
+      <data key="v_collector">1.74012502571721</data>
+      <data key="v_hub">0.00177987455813823</data>
+      <data key="v_buy">1.36</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n187">
+      <data key="v_id">188</data>
+      <data key="v_address">dc19d539369c3da9172de453c05bc503c9ac6bc2</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">83.4519909519155</data>
+      <data key="v_hub">0.42461860543945</data>
+      <data key="v_buy">112.69321</data>
+      <data key="v_n_buy">208</data>
+    </node>
+    <node id="n188">
+      <data key="v_id">189</data>
+      <data key="v_address">dd965133ccad001c5bb9068d754841eed9b87fb2</data>
+      <data key="v_artist">3.25496623880804</data>
+      <data key="v_authority">0.0902965075534442</data>
+      <data key="v_sell">2.278</data>
+      <data key="v_n_sell">5</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">1.11316245276087e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n189">
+      <data key="v_id">190</data>
+      <data key="v_address">e13d4abee4b304b67c52a56871141cad1b833aa7</data>
+      <data key="v_artist">14.4025934416808</data>
+      <data key="v_authority">0.220937046513272</data>
+      <data key="v_sell">13.108</data>
+      <data key="v_n_sell">36</data>
+      <data key="v_collector">2.97698034991515</data>
+      <data key="v_hub">0.00339473443852883</data>
+      <data key="v_buy">0.850001</data>
+      <data key="v_n_buy">6</data>
+    </node>
+    <node id="n190">
+      <data key="v_id">191</data>
+      <data key="v_address">e25c73435702fed11e9c5584ce6efe7cbff71739</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">21.2592743903344</data>
+      <data key="v_hub">0.134475806201043</data>
+      <data key="v_buy">24.59321</data>
+      <data key="v_n_buy">56</data>
+    </node>
+    <node id="n191">
+      <data key="v_id">192</data>
+      <data key="v_address">e5213d0a7ededd98d06524888b6cbc8624cf7be2</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">4.17031162329578</data>
+      <data key="v_hub">0.00603815723448698</data>
+      <data key="v_buy">2.275</data>
+      <data key="v_n_buy">12</data>
+    </node>
+    <node id="n192">
+      <data key="v_id">193</data>
+      <data key="v_address">e5fdedd718bdf40904d67658fa4b9629a7a8b515</data>
+      <data key="v_artist">2.30902624904909</data>
+      <data key="v_authority">0.000720310119814005</data>
+      <data key="v_sell">0.55</data>
+      <data key="v_n_sell">4</data>
+      <data key="v_collector">1.56921235075253</data>
+      <data key="v_hub">5.65757101558527e-05</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n193">
+      <data key="v_id">194</data>
+      <data key="v_address">e64b9a2ccd29c4b815442adb6fec216eb8426c10</data>
+      <data key="v_artist">1.01375976280486</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0.35</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">2.10196939877839</data>
+      <data key="v_hub">0.00128451825479135</data>
+      <data key="v_buy">0.88</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n194">
+      <data key="v_id">195</data>
+      <data key="v_address">e74ef81a02219a2646c2d1fb2e45a9a123fd6fac</data>
+      <data key="v_artist">5.27158365483561</data>
+      <data key="v_authority">0.037733509642261</data>
+      <data key="v_sell">5.275</data>
+      <data key="v_n_sell">18</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">4.44272614165854e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n195">
+      <data key="v_id">196</data>
+      <data key="v_address">e88cfe8535af121121a4b475eefd13dae4fbc4cc</data>
+      <data key="v_artist">2.45184368948319</data>
+      <data key="v_authority">0.00117347351818951</data>
+      <data key="v_sell">1.42</data>
+      <data key="v_n_sell">9</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.22136307082927e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n196">
+      <data key="v_id">197</data>
+      <data key="v_address">e8c9333d6ba367ebd7ed1afd83088b5b5ea15d84</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.26054330005907</data>
+      <data key="v_hub">3.35758063276683e-07</data>
+      <data key="v_buy">0.03</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n197">
+      <data key="v_id">198</data>
+      <data key="v_address">e923d07f58239356d4b1db37e03a22141f4f37c6</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.46707164817198</data>
+      <data key="v_hub">0.00016841154274603</data>
+      <data key="v_buy">1.81</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n198">
+      <data key="v_id">199</data>
+      <data key="v_address">e98bd4b49a1eafa8c2ecbf562073a12fae464b65</data>
+      <data key="v_artist">1.42789283741405</data>
+      <data key="v_authority">0.00204142647376068</data>
+      <data key="v_sell">0.35</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.85324978095306</data>
+      <data key="v_hub">0.00127477110853497</data>
+      <data key="v_buy">1.05</data>
+      <data key="v_n_buy">3</data>
+    </node>
+    <node id="n199">
+      <data key="v_id">200</data>
+      <data key="v_address">ec06218addda0551d54b77950bb9079db88fbea7</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.29202399065917</data>
+      <data key="v_hub">0.000190472404327995</data>
+      <data key="v_buy">0.05</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n200">
+      <data key="v_id">201</data>
+      <data key="v_address">ec6d36a487d85cf562b7b8464ce8dc60637362ac</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.37328719206379</data>
+      <data key="v_hub">0.00680015999271149</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n201">
+      <data key="v_id">202</data>
+      <data key="v_address">ec8c1050b45789f9ee4d09dcc7d64aaf9e233338</data>
+      <data key="v_artist">1.90244059454655</data>
+      <data key="v_authority">0.00437448530091574</data>
+      <data key="v_sell">0.75</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">6.89450957526811</data>
+      <data key="v_hub">0.0265686191064948</data>
+      <data key="v_buy">5.193</data>
+      <data key="v_n_buy">17</data>
+    </node>
+    <node id="n202">
+      <data key="v_id">203</data>
+      <data key="v_address">ed8b0f296a201d46066d895998bc5c191e47086d</data>
+      <data key="v_artist">1.34488571275238</data>
+      <data key="v_authority">0.000429160899776643</data>
+      <data key="v_sell">0.18</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n203">
+      <data key="v_id">204</data>
+      <data key="v_address">eeeeec16d9471a5fae3b02a5cde6461fd2d4908a</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.26506575459559</data>
+      <data key="v_hub">0.0019356330768481</data>
+      <data key="v_buy">2</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n204">
+      <data key="v_id">205</data>
+      <data key="v_address">f0520845f700796b567cd740876f2e210f2468e5</data>
+      <data key="v_artist">1.46495862826082</data>
+      <data key="v_authority">2.22218806597225e-06</data>
+      <data key="v_sell">1.3</data>
+      <data key="v_n_sell">2</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">5.54100309034201e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n205">
+      <data key="v_id">206</data>
+      <data key="v_address">f0658281cd1eab7fdfd57760379fc0b35e499486</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.19941986429578</data>
+      <data key="v_hub">1.11919354425149e-06</data>
+      <data key="v_buy">0.1</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n206">
+      <data key="v_id">207</data>
+      <data key="v_address">f1721fa5b72191fdc428a2a5a5b4be02b711f0ea</data>
+      <data key="v_artist">1.20932290952032</data>
+      <data key="v_authority">4.14237159041479e-05</data>
+      <data key="v_sell">0.05</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.77050154517101e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n207">
+      <data key="v_id">208</data>
+      <data key="v_address">f1db8a2623193757317639d0532daa5e3c8ea20c</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.75639311347718</data>
+      <data key="v_hub">0.00576305485141222</data>
+      <data key="v_buy">1.25</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n208">
+      <data key="v_id">209</data>
+      <data key="v_address">f2939a3fda65f0c4803b76125356b9778df2f6df</data>
+      <data key="v_artist">1.35537265806339</data>
+      <data key="v_authority">0.00368341419018425</data>
+      <data key="v_sell">0.2</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.70445369469778</data>
+      <data key="v_hub">0.00017466172132824</data>
+      <data key="v_buy">0.12</data>
+      <data key="v_n_buy">8</data>
+    </node>
+    <node id="n209">
+      <data key="v_id">210</data>
+      <data key="v_address">f7dacf4f4f6283eabd71847bfe4f35558e4aaf50</data>
+      <data key="v_artist">1.33596704662396</data>
+      <data key="v_authority">0.000238422722098135</data>
+      <data key="v_sell">0.1</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.88208813510577e-18</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n210">
+      <data key="v_id">211</data>
+      <data key="v_address">f8b32d30ac6ab3030595432533d7836fd76b078d</data>
+      <data key="v_artist">14.3757055365573</data>
+      <data key="v_authority">0.257853254772306</data>
+      <data key="v_sell">15.7484</data>
+      <data key="v_n_sell">29</data>
+      <data key="v_collector">4.83611408333295</data>
+      <data key="v_hub">0.0134763856447825</data>
+      <data key="v_buy">2.5834</data>
+      <data key="v_n_buy">14</data>
+    </node>
+    <node id="n211">
+      <data key="v_id">212</data>
+      <data key="v_address">f9196f9f176fd2ef9243e8960817d5fbe63d79aa</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">-0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.50648305541174</data>
+      <data key="v_hub">0.000511837257398576</data>
+      <data key="v_buy">0.5</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n212">
+      <data key="v_id">213</data>
+      <data key="v_address">f9ea0aa5c9d0c0e0dc350f7f546a4655689ce7bb</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">-0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.89347746347694</data>
+      <data key="v_hub">0.00538827955281127</data>
+      <data key="v_buy">1.65</data>
+      <data key="v_n_buy">4</data>
+    </node>
+    <node id="n213">
+      <data key="v_id">214</data>
+      <data key="v_address">fa30c7836ca6c0c85bb284880774620d283c3354</data>
+      <data key="v_artist">1.65389120205158</data>
+      <data key="v_authority">0.013812803213191</data>
+      <data key="v_sell">0.75</data>
+      <data key="v_n_sell">1</data>
+      <data key="v_collector">1.62571411714567</data>
+      <data key="v_hub">0.00904547050440928</data>
+      <data key="v_buy">0.6</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n214">
+      <data key="v_id">215</data>
+      <data key="v_address">fb1363ec558fc289ba6d4a6c6ba7919cfbb22b14</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">-0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.62371040837087</data>
+      <data key="v_hub">5.23966593423428e-05</data>
+      <data key="v_buy">0.3</data>
+      <data key="v_n_buy">2</data>
+    </node>
+    <node id="n215">
+      <data key="v_id">216</data>
+      <data key="v_address">fce9262f62f564edb7f2aed998ab3a551b5fb0ab</data>
+      <data key="v_artist">3.70652715167961</data>
+      <data key="v_authority">0.0228290938474659</data>
+      <data key="v_sell">1.62</data>
+      <data key="v_n_sell">8</data>
+      <data key="v_collector">1</data>
+      <data key="v_hub">2.30567050808461e-17</data>
+      <data key="v_buy">0</data>
+      <data key="v_n_buy">0</data>
+    </node>
+    <node id="n216">
+      <data key="v_id">217</data>
+      <data key="v_address">fe0174255e410defaaf58b06e009e0ebcd74db59</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.40935750725378</data>
+      <data key="v_hub">0.00114283442596796</data>
+      <data key="v_buy">0.3</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <node id="n217">
+      <data key="v_id">218</data>
+      <data key="v_address">fe325b95eff8c7b86b7085fc2f446a2ade5b6b6d</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">2.38370602796135</data>
+      <data key="v_hub">0.000705768616191324</data>
+      <data key="v_buy">0.194</data>
+      <data key="v_n_buy">9</data>
+    </node>
+    <node id="n218">
+      <data key="v_id">219</data>
+      <data key="v_address">ff02ddbab49a8d2853daf0a9c6d42ccfb4f21f40</data>
+      <data key="v_artist">1</data>
+      <data key="v_authority">0</data>
+      <data key="v_sell">0</data>
+      <data key="v_n_sell">0</data>
+      <data key="v_collector">1.25114508455162</data>
+      <data key="v_hub">0.000296893622811817</data>
+      <data key="v_buy">0.18</data>
+      <data key="v_n_buy">1</data>
+    </node>
+    <edge source="n0" target="n77">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_price">91.673</data>
+    </edge>
+    <edge source="n1" target="n26">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n1" target="n40">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n1" target="n41">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n1" target="n75">
+      <data key="e_price">0.8</data>
+    </edge>
+    <edge source="n1" target="n103">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n1" target="n122">
+      <data key="e_price">1.8</data>
+    </edge>
+    <edge source="n1" target="n143">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n1" target="n153">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n1" target="n154">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n1" target="n167">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n1" target="n176">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n1" target="n187">
+      <data key="e_price">3.65</data>
+    </edge>
+    <edge source="n1" target="n189">
+      <data key="e_price">0.55</data>
+    </edge>
+    <edge source="n1" target="n210">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n1" target="n217">
+      <data key="e_price">0.11</data>
+    </edge>
+    <edge source="n2" target="n40">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n2" target="n41">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n2" target="n92">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n2" target="n185">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n2" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n2" target="n190">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n2" target="n201">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n2" target="n214">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n3" target="n113">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n4" target="n26">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n4" target="n45">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n5" target="n41">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n5" target="n105">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n5" target="n171">
+      <data key="e_price">0.125</data>
+    </edge>
+    <edge source="n6" target="n26">
+      <data key="e_price">1.2</data>
+    </edge>
+    <edge source="n6" target="n48">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n6" target="n63">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n6" target="n81">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n6" target="n102">
+      <data key="e_price">0.1984</data>
+    </edge>
+    <edge source="n6" target="n124">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n6" target="n139">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n6" target="n161">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n6" target="n179">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n6" target="n182">
+      <data key="e_price">0.47</data>
+    </edge>
+    <edge source="n6" target="n186">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n7" target="n10">
+      <data key="e_price">0.499999</data>
+    </edge>
+    <edge source="n7" target="n62">
+      <data key="e_price">0.11111</data>
+    </edge>
+    <edge source="n7" target="n102">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n7" target="n122">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n7" target="n143">
+      <data key="e_price">0.051</data>
+    </edge>
+    <edge source="n7" target="n149">
+      <data key="e_price">0.048</data>
+    </edge>
+    <edge source="n7" target="n189">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n7" target="n201">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n8" target="n117">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n9" target="n10">
+      <data key="e_price">0.453456789</data>
+    </edge>
+    <edge source="n9" target="n112">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n9" target="n190">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n10" target="n18">
+      <data key="e_price">2.5</data>
+    </edge>
+    <edge source="n10" target="n21">
+      <data key="e_price">1.1</data>
+    </edge>
+    <edge source="n10" target="n26">
+      <data key="e_price">19.76</data>
+    </edge>
+    <edge source="n10" target="n28">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n10" target="n30">
+      <data key="e_price">2.15</data>
+    </edge>
+    <edge source="n10" target="n31">
+      <data key="e_price">1.91</data>
+    </edge>
+    <edge source="n10" target="n32">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n10" target="n38">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n10" target="n40">
+      <data key="e_price">0.555</data>
+    </edge>
+    <edge source="n10" target="n41">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n10" target="n44">
+      <data key="e_price">0.84</data>
+    </edge>
+    <edge source="n10" target="n48">
+      <data key="e_price">17.4</data>
+    </edge>
+    <edge source="n10" target="n57">
+      <data key="e_price">1.1</data>
+    </edge>
+    <edge source="n10" target="n61">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n10" target="n62">
+      <data key="e_price">2.8</data>
+    </edge>
+    <edge source="n10" target="n70">
+      <data key="e_price">1.35</data>
+    </edge>
+    <edge source="n10" target="n71">
+      <data key="e_price">1.25</data>
+    </edge>
+    <edge source="n10" target="n77">
+      <data key="e_price">0.9</data>
+    </edge>
+    <edge source="n10" target="n79">
+      <data key="e_price">1.55</data>
+    </edge>
+    <edge source="n10" target="n82">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n10" target="n86">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n10" target="n89">
+      <data key="e_price">0.45</data>
+    </edge>
+    <edge source="n10" target="n91">
+      <data key="e_price">1.37</data>
+    </edge>
+    <edge source="n10" target="n92">
+      <data key="e_price">0.9</data>
+    </edge>
+    <edge source="n10" target="n94">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n10" target="n100">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n10" target="n101">
+      <data key="e_price">0.45</data>
+    </edge>
+    <edge source="n10" target="n102">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n10" target="n111">
+      <data key="e_price">6.06</data>
+    </edge>
+    <edge source="n10" target="n118">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n10" target="n123">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n10" target="n126">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n10" target="n131">
+      <data key="e_price">0.8</data>
+    </edge>
+    <edge source="n10" target="n133">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n10" target="n137">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n10" target="n140">
+      <data key="e_price">4.12</data>
+    </edge>
+    <edge source="n10" target="n143">
+      <data key="e_price">0.65</data>
+    </edge>
+    <edge source="n10" target="n146">
+      <data key="e_price">1.1</data>
+    </edge>
+    <edge source="n10" target="n148">
+      <data key="e_price">1.25</data>
+    </edge>
+    <edge source="n10" target="n150">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n10" target="n154">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n10" target="n164">
+      <data key="e_price">1.56</data>
+    </edge>
+    <edge source="n10" target="n165">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n10" target="n166">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n10" target="n167">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n10" target="n174">
+      <data key="e_price">1.35</data>
+    </edge>
+    <edge source="n10" target="n177">
+      <data key="e_price">0.65</data>
+    </edge>
+    <edge source="n10" target="n179">
+      <data key="e_price">1.25</data>
+    </edge>
+    <edge source="n10" target="n181">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n10" target="n184">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n10" target="n186">
+      <data key="e_price">0.55</data>
+    </edge>
+    <edge source="n10" target="n187">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n10" target="n188">
+      <data key="e_price">2.078</data>
+    </edge>
+    <edge source="n10" target="n189">
+      <data key="e_price">0.55</data>
+    </edge>
+    <edge source="n10" target="n210">
+      <data key="e_price">0.45</data>
+    </edge>
+    <edge source="n10" target="n215">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n11" target="n41">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n11" target="n187">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n12" target="n193">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n13" target="n155">
+      <data key="e_price">0.08</data>
+    </edge>
+    <edge source="n14" target="n71">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n15" target="n146">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n15" target="n187">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n16" target="n77">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n17" target="n181">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n18" target="n109">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n18" target="n201">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n18" target="n218">
+      <data key="e_price">0.18</data>
+    </edge>
+    <edge source="n19" target="n40">
+      <data key="e_price">0.11</data>
+    </edge>
+    <edge source="n19" target="n92">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n20" target="n31">
+      <data key="e_price">0.65</data>
+    </edge>
+    <edge source="n20" target="n111">
+      <data key="e_price">0.47</data>
+    </edge>
+    <edge source="n21" target="n146">
+      <data key="e_price">0.08</data>
+    </edge>
+    <edge source="n21" target="n167">
+      <data key="e_price">0.07</data>
+    </edge>
+    <edge source="n22" target="n70">
+      <data key="e_price">0.075</data>
+    </edge>
+    <edge source="n22" target="n109">
+      <data key="e_price">2.5</data>
+    </edge>
+    <edge source="n22" target="n169">
+      <data key="e_price">0.0223</data>
+    </edge>
+    <edge source="n22" target="n187">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n23" target="n41">
+      <data key="e_price">4</data>
+    </edge>
+    <edge source="n23" target="n117">
+      <data key="e_price">3</data>
+    </edge>
+    <edge source="n24" target="n184">
+      <data key="e_price">0.22</data>
+    </edge>
+    <edge source="n25" target="n26">
+      <data key="e_price">2.18</data>
+    </edge>
+    <edge source="n25" target="n111">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n25" target="n113">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n25" target="n194">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n26" target="n34">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n26" target="n40">
+      <data key="e_price">0.745</data>
+    </edge>
+    <edge source="n26" target="n41">
+      <data key="e_price">0.798</data>
+    </edge>
+    <edge source="n26" target="n48">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n26" target="n62">
+      <data key="e_price">0.32</data>
+    </edge>
+    <edge source="n26" target="n66">
+      <data key="e_price">0.8</data>
+    </edge>
+    <edge source="n26" target="n70">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n26" target="n82">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n26" target="n92">
+      <data key="e_price">0.6765</data>
+    </edge>
+    <edge source="n26" target="n101">
+      <data key="e_price">0.03</data>
+    </edge>
+    <edge source="n26" target="n131">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n26" target="n143">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n26" target="n144">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n26" target="n145">
+      <data key="e_price">1.47</data>
+    </edge>
+    <edge source="n26" target="n149">
+      <data key="e_price">0.23</data>
+    </edge>
+    <edge source="n26" target="n154">
+      <data key="e_price">0.67</data>
+    </edge>
+    <edge source="n26" target="n163">
+      <data key="e_price">1.8</data>
+    </edge>
+    <edge source="n26" target="n167">
+      <data key="e_price">1.001</data>
+    </edge>
+    <edge source="n26" target="n170">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n26" target="n177">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n26" target="n187">
+      <data key="e_price">5.35</data>
+    </edge>
+    <edge source="n26" target="n190">
+      <data key="e_price">3.35</data>
+    </edge>
+    <edge source="n26" target="n201">
+      <data key="e_price">0.423</data>
+    </edge>
+    <edge source="n26" target="n210">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n26" target="n213">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n27" target="n48">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n27" target="n150">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n28" target="n39">
+      <data key="e_price">0.04</data>
+    </edge>
+    <edge source="n28" target="n86">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n28" target="n131">
+      <data key="e_price">0.026</data>
+    </edge>
+    <edge source="n28" target="n149">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n29" target="n62">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n30" target="n41">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n30" target="n77">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n30" target="n91">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n30" target="n167">
+      <data key="e_price">0.32</data>
+    </edge>
+    <edge source="n30" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n31" target="n40">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n31" target="n41">
+      <data key="e_price">0.8</data>
+    </edge>
+    <edge source="n31" target="n92">
+      <data key="e_price">0.65</data>
+    </edge>
+    <edge source="n31" target="n102">
+      <data key="e_price">0.22</data>
+    </edge>
+    <edge source="n31" target="n122">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n31" target="n154">
+      <data key="e_price">0.42</data>
+    </edge>
+    <edge source="n31" target="n170">
+      <data key="e_price">0.46</data>
+    </edge>
+    <edge source="n32" target="n45">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n32" target="n124">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n32" target="n154">
+      <data key="e_price">0.49</data>
+    </edge>
+    <edge source="n32" target="n167">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n32" target="n215">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n33" target="n92">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n33" target="n131">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n33" target="n187">
+      <data key="e_price">1.35</data>
+    </edge>
+    <edge source="n34" target="n48">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n34" target="n91">
+      <data key="e_price">0.9</data>
+    </edge>
+    <edge source="n34" target="n101">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n35" target="n170">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n36" target="n89">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n36" target="n154">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n37" target="n186">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n38" target="n88">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n38" target="n167">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n38" target="n184">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n38" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n38" target="n210">
+      <data key="e_price">0.23</data>
+    </edge>
+    <edge source="n39" target="n64">
+      <data key="e_price">0.53</data>
+    </edge>
+    <edge source="n39" target="n102">
+      <data key="e_price">0.035</data>
+    </edge>
+    <edge source="n40" target="n48">
+      <data key="e_price">1.95</data>
+    </edge>
+    <edge source="n40" target="n58">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n40" target="n62">
+      <data key="e_price">0.045</data>
+    </edge>
+    <edge source="n40" target="n63">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n40" target="n65">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n40" target="n77">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n40" target="n79">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n40" target="n82">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n40" target="n86">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n40" target="n89">
+      <data key="e_price">1.15</data>
+    </edge>
+    <edge source="n40" target="n91">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n40" target="n98">
+      <data key="e_price">0.14</data>
+    </edge>
+    <edge source="n40" target="n101">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n40" target="n102">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n40" target="n104">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n40" target="n124">
+      <data key="e_price">0.06</data>
+    </edge>
+    <edge source="n40" target="n131">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n40" target="n154">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n40" target="n163">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n40" target="n174">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n40" target="n175">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n40" target="n180">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n40" target="n187">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n40" target="n189">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n40" target="n190">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n40" target="n210">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n41" target="n48">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n41" target="n54">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n41" target="n58">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n41" target="n65">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n41" target="n77">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n41" target="n83">
+      <data key="e_price">0.0425559078239036</data>
+    </edge>
+    <edge source="n41" target="n86">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n41" target="n94">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n41" target="n96">
+      <data key="e_price">0.01</data>
+    </edge>
+    <edge source="n41" target="n98">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n41" target="n101">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n41" target="n102">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n41" target="n104">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n41" target="n126">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n41" target="n128">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n41" target="n131">
+      <data key="e_price">0.004</data>
+    </edge>
+    <edge source="n41" target="n161">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n41" target="n167">
+      <data key="e_price">3</data>
+    </edge>
+    <edge source="n41" target="n174">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n41" target="n177">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n41" target="n189">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n41" target="n190">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n41" target="n192">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n42" target="n111">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n42" target="n210">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n43" target="n181">
+      <data key="e_price">0.01</data>
+    </edge>
+    <edge source="n44" target="n154">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n44" target="n187">
+      <data key="e_price">0.47</data>
+    </edge>
+    <edge source="n45" target="n187">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n46" target="n98">
+      <data key="e_price">0.303</data>
+    </edge>
+    <edge source="n47" target="n149">
+      <data key="e_price">0.075</data>
+    </edge>
+    <edge source="n47" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n48" target="n74">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n48" target="n76">
+      <data key="e_price">2.6</data>
+    </edge>
+    <edge source="n48" target="n92">
+      <data key="e_price">1.85</data>
+    </edge>
+    <edge source="n48" target="n102">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n48" target="n154">
+      <data key="e_price">0.8</data>
+    </edge>
+    <edge source="n48" target="n156">
+      <data key="e_price">0.9</data>
+    </edge>
+    <edge source="n48" target="n167">
+      <data key="e_price">0.88</data>
+    </edge>
+    <edge source="n48" target="n168">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n48" target="n170">
+      <data key="e_price">0.55</data>
+    </edge>
+    <edge source="n48" target="n187">
+      <data key="e_price">5.5</data>
+    </edge>
+    <edge source="n48" target="n190">
+      <data key="e_price">2.55</data>
+    </edge>
+    <edge source="n48" target="n200">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n48" target="n201">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n48" target="n210">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n49" target="n184">
+      <data key="e_price">0.014</data>
+    </edge>
+    <edge source="n50" target="n138">
+      <data key="e_price">2.56</data>
+    </edge>
+    <edge source="n50" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n51" target="n79">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n52" target="n58">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n53" target="n71">
+      <data key="e_price">0.17</data>
+    </edge>
+    <edge source="n53" target="n89">
+      <data key="e_price">0.22</data>
+    </edge>
+    <edge source="n53" target="n189">
+      <data key="e_price">0.14</data>
+    </edge>
+    <edge source="n55" target="n194">
+      <data key="e_price">0.08</data>
+    </edge>
+    <edge source="n56" target="n74">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n56" target="n156">
+      <data key="e_price">0.33</data>
+    </edge>
+    <edge source="n56" target="n167">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n56" target="n187">
+      <data key="e_price">4.95</data>
+    </edge>
+    <edge source="n57" target="n71">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n57" target="n156">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n57" target="n187">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n58" target="n59">
+      <data key="e_price">0.14</data>
+    </edge>
+    <edge source="n58" target="n107">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n58" target="n108">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n58" target="n122">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n58" target="n154">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n58" target="n187">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n58" target="n198">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n58" target="n201">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n60" target="n142">
+      <data key="e_price">2.5</data>
+    </edge>
+    <edge source="n61" target="n187">
+      <data key="e_price">1.85</data>
+    </edge>
+    <edge source="n61" target="n190">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n61" target="n193">
+      <data key="e_price">0.18</data>
+    </edge>
+    <edge source="n61" target="n210">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n62" target="n71">
+      <data key="e_price">0.32</data>
+    </edge>
+    <edge source="n62" target="n92">
+      <data key="e_price">0.28</data>
+    </edge>
+    <edge source="n62" target="n102">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n62" target="n167">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n62" target="n187">
+      <data key="e_price">4</data>
+    </edge>
+    <edge source="n62" target="n194">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n62" target="n201">
+      <data key="e_price">0.37</data>
+    </edge>
+    <edge source="n62" target="n207">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n63" target="n149">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n63" target="n175">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n63" target="n187">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n64" target="n201">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n66" target="n111">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n66" target="n187">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n67" target="n82">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n68" target="n161">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n69" target="n189">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n70" target="n102">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n70" target="n109">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n70" target="n117">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n70" target="n154">
+      <data key="e_price">3.6</data>
+    </edge>
+    <edge source="n70" target="n161">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n70" target="n163">
+      <data key="e_price">4</data>
+    </edge>
+    <edge source="n70" target="n187">
+      <data key="e_price">4.75</data>
+    </edge>
+    <edge source="n71" target="n72">
+      <data key="e_price">0.02</data>
+    </edge>
+    <edge source="n71" target="n77">
+      <data key="e_price">0.351</data>
+    </edge>
+    <edge source="n71" target="n87">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n71" target="n94">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n71" target="n101">
+      <data key="e_price">0.455</data>
+    </edge>
+    <edge source="n71" target="n102">
+      <data key="e_price">1.01</data>
+    </edge>
+    <edge source="n71" target="n105">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n71" target="n143">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n71" target="n146">
+      <data key="e_price">1.2</data>
+    </edge>
+    <edge source="n71" target="n148">
+      <data key="e_price">0.101010101</data>
+    </edge>
+    <edge source="n71" target="n151">
+      <data key="e_price">1.14</data>
+    </edge>
+    <edge source="n71" target="n153">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n71" target="n154">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n71" target="n184">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n71" target="n187">
+      <data key="e_price">5.39321</data>
+    </edge>
+    <edge source="n71" target="n189">
+      <data key="e_price">0.61</data>
+    </edge>
+    <edge source="n71" target="n191">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n71" target="n195">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n71" target="n206">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n71" target="n210">
+      <data key="e_price">0.48</data>
+    </edge>
+    <edge source="n73" target="n77">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n73" target="n194">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n75" target="n154">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n77" target="n133">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n77" target="n160">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n77" target="n187">
+      <data key="e_price">2.81</data>
+    </edge>
+    <edge source="n77" target="n190">
+      <data key="e_price">2.1</data>
+    </edge>
+    <edge source="n77" target="n210">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n78" target="n82">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n79" target="n107">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n79" target="n211">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n80" target="n90">
+      <data key="e_price">2.1</data>
+    </edge>
+    <edge source="n81" target="n187">
+      <data key="e_price">1.25</data>
+    </edge>
+    <edge source="n81" target="n190">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n82" target="n97">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n82" target="n123">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n82" target="n130">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n82" target="n141">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n82" target="n152">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n82" target="n156">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n82" target="n157">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n82" target="n163">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n82" target="n167">
+      <data key="e_price">0.52</data>
+    </edge>
+    <edge source="n82" target="n187">
+      <data key="e_price">4</data>
+    </edge>
+    <edge source="n82" target="n190">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n82" target="n194">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n82" target="n201">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n82" target="n210">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n83" target="n92">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n84" target="n89">
+      <data key="e_price">1.2</data>
+    </edge>
+    <edge source="n85" target="n181">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n86" target="n92">
+      <data key="e_price">1.455</data>
+    </edge>
+    <edge source="n86" target="n101">
+      <data key="e_price">0.205</data>
+    </edge>
+    <edge source="n86" target="n109">
+      <data key="e_price">3</data>
+    </edge>
+    <edge source="n86" target="n135">
+      <data key="e_price">0.62</data>
+    </edge>
+    <edge source="n86" target="n153">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n86" target="n187">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n86" target="n190">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n87" target="n186">
+      <data key="e_price">1.4</data>
+    </edge>
+    <edge source="n89" target="n154">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n89" target="n167">
+      <data key="e_price">1.25</data>
+    </edge>
+    <edge source="n89" target="n184">
+      <data key="e_price">0.38</data>
+    </edge>
+    <edge source="n89" target="n187">
+      <data key="e_price">2.05</data>
+    </edge>
+    <edge source="n89" target="n201">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n89" target="n203">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n91" target="n135">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n91" target="n153">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n91" target="n154">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n91" target="n156">
+      <data key="e_price">0.99</data>
+    </edge>
+    <edge source="n91" target="n184">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n91" target="n187">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n91" target="n191">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n91" target="n193">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n92" target="n102">
+      <data key="e_price">0.42</data>
+    </edge>
+    <edge source="n92" target="n104">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n92" target="n111">
+      <data key="e_price">0.445</data>
+    </edge>
+    <edge source="n92" target="n117">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n92" target="n161">
+      <data key="e_price">2.232</data>
+    </edge>
+    <edge source="n92" target="n170">
+      <data key="e_price">1.85</data>
+    </edge>
+    <edge source="n92" target="n183">
+      <data key="e_price">0.051</data>
+    </edge>
+    <edge source="n92" target="n186">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n92" target="n189">
+      <data key="e_price">0.333</data>
+    </edge>
+    <edge source="n92" target="n190">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n92" target="n210">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n92" target="n215">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n93" target="n194">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n94" target="n187">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n95" target="n195">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n99" target="n183">
+      <data key="e_price">0.001</data>
+    </edge>
+    <edge source="n100" target="n102">
+      <data key="e_price">0.025</data>
+    </edge>
+    <edge source="n100" target="n208">
+      <data key="e_price">0.01</data>
+    </edge>
+    <edge source="n101" target="n103">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n101" target="n143">
+      <data key="e_price">0.17</data>
+    </edge>
+    <edge source="n101" target="n146">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n101" target="n154">
+      <data key="e_price">0.365</data>
+    </edge>
+    <edge source="n101" target="n156">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n101" target="n167">
+      <data key="e_price">0.22</data>
+    </edge>
+    <edge source="n101" target="n180">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n101" target="n187">
+      <data key="e_price">0.95</data>
+    </edge>
+    <edge source="n101" target="n189">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n101" target="n190">
+      <data key="e_price">1.05</data>
+    </edge>
+    <edge source="n101" target="n191">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n101" target="n193">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n101" target="n217">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n102" target="n109">
+      <data key="e_price">0.0001</data>
+    </edge>
+    <edge source="n102" target="n122">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n102" target="n131">
+      <data key="e_price">0.077</data>
+    </edge>
+    <edge source="n102" target="n132">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n102" target="n134">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n102" target="n144">
+      <data key="e_price">0.1166</data>
+    </edge>
+    <edge source="n102" target="n149">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n102" target="n154">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n102" target="n167">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n102" target="n181">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n102" target="n186">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n102" target="n187">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n102" target="n189">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n102" target="n190">
+      <data key="e_price">1.15</data>
+    </edge>
+    <edge source="n102" target="n207">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n102" target="n210">
+      <data key="e_price">0.3984</data>
+    </edge>
+    <edge source="n102" target="n215">
+      <data key="e_price">0.18</data>
+    </edge>
+    <edge source="n103" target="n154">
+      <data key="e_price">0.08</data>
+    </edge>
+    <edge source="n104" target="n161">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n104" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n105" target="n184">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n106" target="n117">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n107" target="n161">
+      <data key="e_price">0.382</data>
+    </edge>
+    <edge source="n109" target="n111">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n109" target="n117">
+      <data key="e_price">3.6</data>
+    </edge>
+    <edge source="n109" target="n184">
+      <data key="e_price">1.45</data>
+    </edge>
+    <edge source="n109" target="n186">
+      <data key="e_price">0.075</data>
+    </edge>
+    <edge source="n109" target="n187">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n109" target="n190">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n109" target="n215">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n110" target="n127">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n111" target="n135">
+      <data key="e_price">0.245</data>
+    </edge>
+    <edge source="n111" target="n146">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n111" target="n154">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n111" target="n167">
+      <data key="e_price">1.63</data>
+    </edge>
+    <edge source="n111" target="n177">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n111" target="n187">
+      <data key="e_price">2.25</data>
+    </edge>
+    <edge source="n111" target="n191">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n111" target="n207">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n111" target="n210">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n113" target="n153">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n113" target="n156">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n113" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n114" target="n155">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n115" target="n176">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n116" target="n154">
+      <data key="e_price">0.275</data>
+    </edge>
+    <edge source="n116" target="n170">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n117" target="n144">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n117" target="n170">
+      <data key="e_price">0.41</data>
+    </edge>
+    <edge source="n118" target="n191">
+      <data key="e_price">0.18</data>
+    </edge>
+    <edge source="n119" target="n194">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n119" target="n204">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n120" target="n151">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n120" target="n187">
+      <data key="e_price">1.1</data>
+    </edge>
+    <edge source="n121" target="n178">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n122" target="n170">
+      <data key="e_price">1.49</data>
+    </edge>
+    <edge source="n122" target="n182">
+      <data key="e_price">0.47</data>
+    </edge>
+    <edge source="n122" target="n210">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n123" target="n187">
+      <data key="e_price">2.9</data>
+    </edge>
+    <edge source="n123" target="n201">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n124" target="n196">
+      <data key="e_price">0.03</data>
+    </edge>
+    <edge source="n124" target="n205">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n125" target="n184">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n126" target="n154">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n126" target="n198">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n127" target="n181">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n128" target="n167">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n129" target="n176">
+      <data key="e_price">0.074</data>
+    </edge>
+    <edge source="n131" target="n143">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n131" target="n187">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n132" target="n192">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n133" target="n167">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n133" target="n187">
+      <data key="e_price">2.2</data>
+    </edge>
+    <edge source="n135" target="n184">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n135" target="n187">
+      <data key="e_price">0.65</data>
+    </edge>
+    <edge source="n136" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n137" target="n159">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n137" target="n181">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n137" target="n187">
+      <data key="e_price">1.1</data>
+    </edge>
+    <edge source="n137" target="n190">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n140" target="n187">
+      <data key="e_price">1.89</data>
+    </edge>
+    <edge source="n143" target="n146">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n143" target="n153">
+      <data key="e_price">1.35</data>
+    </edge>
+    <edge source="n143" target="n155">
+      <data key="e_price">0.03</data>
+    </edge>
+    <edge source="n143" target="n167">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n143" target="n187">
+      <data key="e_price">1.6</data>
+    </edge>
+    <edge source="n143" target="n190">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n143" target="n201">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n143" target="n212">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n144" target="n179">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n146" target="n187">
+      <data key="e_price">3.75</data>
+    </edge>
+    <edge source="n146" target="n208">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n146" target="n212">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n147" target="n189">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n148" target="n154">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n148" target="n167">
+      <data key="e_price">0.9</data>
+    </edge>
+    <edge source="n148" target="n187">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n148" target="n189">
+      <data key="e_price">1e-06</data>
+    </edge>
+    <edge source="n149" target="n154">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n149" target="n179">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n149" target="n187">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n149" target="n215">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n152" target="n186">
+      <data key="e_price">0.33</data>
+    </edge>
+    <edge source="n153" target="n174">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n153" target="n184">
+      <data key="e_price">0.6075</data>
+    </edge>
+    <edge source="n153" target="n189">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n153" target="n194">
+      <data key="e_price">0.6</data>
+    </edge>
+    <edge source="n153" target="n195">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n154" target="n155">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n154" target="n162">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n154" target="n163">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n154" target="n166">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n154" target="n167">
+      <data key="e_price">1.23</data>
+    </edge>
+    <edge source="n154" target="n174">
+      <data key="e_price">0.175</data>
+    </edge>
+    <edge source="n154" target="n179">
+      <data key="e_price">0.45</data>
+    </edge>
+    <edge source="n154" target="n184">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n154" target="n187">
+      <data key="e_price">6.5</data>
+    </edge>
+    <edge source="n154" target="n189">
+      <data key="e_price">0.175</data>
+    </edge>
+    <edge source="n154" target="n190">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n154" target="n195">
+      <data key="e_price">0.29</data>
+    </edge>
+    <edge source="n154" target="n198">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n154" target="n199">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n154" target="n201">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n154" target="n210">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n154" target="n216">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n155" target="n167">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n155" target="n208">
+      <data key="e_price">0.01</data>
+    </edge>
+    <edge source="n155" target="n217">
+      <data key="e_price">0.034</data>
+    </edge>
+    <edge source="n156" target="n184">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n156" target="n188">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n156" target="n189">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n156" target="n210">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n158" target="n204">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n161" target="n170">
+      <data key="e_price">0.382</data>
+    </edge>
+    <edge source="n161" target="n173">
+      <data key="e_price">4.5</data>
+    </edge>
+    <edge source="n161" target="n192">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n161" target="n201">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n162" target="n195">
+      <data key="e_price">0.18</data>
+    </edge>
+    <edge source="n163" target="n189">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n164" target="n167">
+      <data key="e_price">0.23</data>
+    </edge>
+    <edge source="n164" target="n187">
+      <data key="e_price">2.6</data>
+    </edge>
+    <edge source="n164" target="n210">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n166" target="n184">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n167" target="n180">
+      <data key="e_price">0.001001</data>
+    </edge>
+    <edge source="n167" target="n184">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n167" target="n189">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n167" target="n190">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n167" target="n192">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n167" target="n202">
+      <data key="e_price">0.18</data>
+    </edge>
+    <edge source="n167" target="n209">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n167" target="n210">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n168" target="n187">
+      <data key="e_price">0.7</data>
+    </edge>
+    <edge source="n168" target="n210">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n170" target="n197">
+      <data key="e_price">1.81</data>
+    </edge>
+    <edge source="n172" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n174" target="n187">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n174" target="n190">
+      <data key="e_price">0.65</data>
+    </edge>
+    <edge source="n176" target="n177">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n176" target="n187">
+      <data key="e_price">2.3</data>
+    </edge>
+    <edge source="n177" target="n187">
+      <data key="e_price">0.5</data>
+    </edge>
+    <edge source="n177" target="n190">
+      <data key="e_price">0.4</data>
+    </edge>
+    <edge source="n178" target="n190">
+      <data key="e_price">1.25</data>
+    </edge>
+    <edge source="n179" target="n186">
+      <data key="e_price">0.11</data>
+    </edge>
+    <edge source="n179" target="n187">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n179" target="n190">
+      <data key="e_price">0.54321</data>
+    </edge>
+    <edge source="n179" target="n191">
+      <data key="e_price">0.3</data>
+    </edge>
+    <edge source="n179" target="n210">
+      <data key="e_price">0.1</data>
+    </edge>
+    <edge source="n181" target="n187">
+      <data key="e_price">1.5</data>
+    </edge>
+    <edge source="n181" target="n190">
+      <data key="e_price">0.95</data>
+    </edge>
+    <edge source="n181" target="n195">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n181" target="n207">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n184" target="n187">
+      <data key="e_price">1.2</data>
+    </edge>
+    <edge source="n184" target="n190">
+      <data key="e_price">0.45</data>
+    </edge>
+    <edge source="n184" target="n193">
+      <data key="e_price">0.25</data>
+    </edge>
+    <edge source="n184" target="n195">
+      <data key="e_price">0.15</data>
+    </edge>
+    <edge source="n186" target="n187">
+      <data key="e_price">4.93</data>
+    </edge>
+    <edge source="n186" target="n194">
+      <data key="e_price">1</data>
+    </edge>
+    <edge source="n187" target="n189">
+      <data key="e_price">2.65</data>
+    </edge>
+    <edge source="n187" target="n194">
+      <data key="e_price">2</data>
+    </edge>
+    <edge source="n187" target="n208">
+      <data key="e_price">0.2</data>
+    </edge>
+    <edge source="n187" target="n210">
+      <data key="e_price">2.05</data>
+    </edge>
+    <edge source="n187" target="n213">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n189" target="n194">
+      <data key="e_price">0.05</data>
+    </edge>
+    <edge source="n189" target="n212">
+      <data key="e_price">0.45</data>
+    </edge>
+    <edge source="n190" target="n198">
+      <data key="e_price">0.35</data>
+    </edge>
+    <edge source="n190" target="n201">
+      <data key="e_price">0.75</data>
+    </edge>
+    <edge source="n190" target="n210">
+      <data key="e_price">0.55</data>
+    </edge>
+    <edge source="n191" target="n194">
+      <data key="e_price">0.195</data>
+    </edge>
+    <edge source="n201" target="n215">
+      <data key="e_price">0.12</data>
+    </edge>
+    <edge source="n210" target="n212">
+      <data key="e_price">0.3</data>
+    </edge>
+  </graph>
+</graphml>
