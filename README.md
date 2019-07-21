@@ -3,7 +3,9 @@ Teaching materials for the Applied Data Analysis (ADA) workshop at DHOxSS 2019.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
 
+Slides: https://drive.google.com/open?id=1XaUFBMTXSo9XGkrB2n0YHHX3kxA6KA-e.
 
+Working document: https://drive.google.com/open?id=1zxoIaMI_sJWLwNnlrkv7yDRCZio93EgpvOMPIdt1BOM.
 
 ## Acknowledgements
 
