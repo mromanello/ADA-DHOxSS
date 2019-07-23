@@ -93,7 +93,7 @@ Node attributes (for users):
 
 Edge attributes:
 * *e_price*: price of the transaction in ETH. Note that in the undirected network, this is the sum of the prices of all transactions which occurred between two users.
-* *e_timestamp*: time elapsed from the beginning of the year 1970 (Unix standard time) in hundredths of seconds. Thus, if you divide by 100*3600*24*365, the integer part of the result will be the number of years to add to 1970 to know the year when the transaction took place.
+* *e_timestamp*: time elapsed from the beginning of the year 1970 (Unix standard time) in hundredths of seconds. Thus, if you divide by 100 (recover seconds) times 3600 (seconds in an hour) times 24 (hours in a day) times 365 (days in a year), the integer part of the result will be the number of years to add to 1970 to know the year when the transaction took place.
 * *e_artwork*: id of the exchanged artwork. An artwork can be exchanged multiple times.
 
 Reference paper: https://arxiv.org/abs/1907.07758.
