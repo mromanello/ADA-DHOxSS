@@ -77,6 +77,25 @@ This dataset contains four networks in [GraphML format](http://graphml.graphdraw
 
 *Hint: you might want to try Gephi, networkx or igraph to explore this dataset.*
 
+### A guide to attributes
+
+Node attributes (for users):
+* *v_id*: unique id.
+* *v_address*: blockchain id.
+* *v_artist*: artist rating (see paper below).
+* *v_authority*: HITS authority rating (see paper below).
+* *v_sell*: value of sold items in ETH.
+* *v_n_sell*: number of sold items.
+* *v_collector*: collector rating (see paper below).
+* *v_hub*: HITS hub rating (see paper below).
+* *v_buy*: value of bought items in ETH.
+* *v_n_buy*: number of bought items.
+
+Edge attributes:
+* *e_price*: price of the transaction in ETH. Note that in the undirected network, this is the sum of the prices of all transactions which occurred between two users.
+* *e_timestamp*: time elapsed from the beginning of the year 1970 (Unix standard time) in hundredths of seconds. Thus, if you divide by 100 (recover seconds) times 3600 (seconds in an hour) times 24 (hours in a day) times 365 (days in a year), the integer part of the result will be the number of years to add to 1970 to know the year when the transaction took place.
+* *e_artwork*: id of the exchanged artwork. An artwork can be exchanged multiple times.
+
 Reference paper: https://arxiv.org/abs/1907.07758.
 
 Also see the paper's data and code release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3344713.svg)](https://doi.org/10.5281/zenodo.3344713).
