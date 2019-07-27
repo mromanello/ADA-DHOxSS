@@ -8,8 +8,6 @@ Authors/Convenors:
 - Giovanni Colavizza (University of Amsterdam)
 - Matteo Romanello (EPFL)
 
-<a href=''>slides</a> + <a href=''>notebook</a>
-
 ## Syllabus
 
 | Day.session         | Topic           | Materials  |
