@@ -8,20 +8,22 @@ Authors/Convenors:
 - Giovanni Colavizza (University of Amsterdam)
 - Matteo Romanello (EPFL)
 
+<a href=''>slides</a> + <a href=''>notebook</a>
+
 ## Syllabus
 
 | Day.session         | Topic           | Materials  |
 | ------------- |:-------------:| -----:|
-| 1.1      | Introductions | [slides](slides/1.1 Introduction.pdf) |
-| 1.2      | Data formats and Input/Output | [slides](slides/1.2 Import.pdf) + [notebook](notebooks/1.2 Import.ipynb) |
-| 2.1      | The Python data analysis stack, pt. I  | [slides](slides/1.2 Import.pdf) + [notebook](notebooks/2.1 Skills.ipynb) |
-| 2.2      | Tidy data pt.I-II  | [slides](slides/2.2 Tidy data.pdf) + [notebook](notebooks/2.2 Tidy data.ipynb) |
-| 3.1      | Tidy data pt.III | [slides](slides/3.1 Data wrangling.pdf) + [notebook](notebooks/2.2 Tidy data.ipynb) |
-| 3.2      | The Python data analysis stack, pt. II  | [notebook](notebooks/3.2 Skills, Wrangling.ipynb) |
-| 4.1      | Applied Data Analysis, part I: Basics  | [notebook](notebooks/4.1 Exploratory data analysis and working with texts.ipynb) |
-| 4.2      | Applied Data Analysis, part II: Visualization  | [slides](slides/4.2 Visualization.pdf) + [notebook](notebooks/4.2 Visualize.ipynb) |
-| 5.1      | Applied Data Analysis, part III: Advanced topics  | [notebook](notebooks/5.1 Modelling.ipynb) |
-| 5.2      | Applied Data Analysis, part IV: Advanced application  | [notebook](notebooks/5.2 Visualize, Model.ipynb) |
+| 1.1      | Introductions | <a href='slides/1.1 Introduction.pdf'>slides</a> |
+| 1.2      | Data formats and Input/Output | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/1.2 Import.ipynb'>notebook</a> |
+| 2.1      | The Python data analysis stack, pt. I  | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/2.1 Skills.ipynb'>notebook</a> |
+| 2.2      | Tidy data pt.I-II  | <a href='slides/2.2 Tidy data.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a> |
+| 3.1      | Tidy data pt.III | <a href='slides/3.1 Data wrangling.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a>|
+| 3.2      | The Python data analysis stack, pt. II  |  <a href='notebooks/3.2 Skills, Wrangling.ipynb'>notebook</a> |
+| 4.1      | Applied Data Analysis, part I: Basics  | <a href='notebooks/4.1 Exploratory data analysis and working with texts.ipynb'>notebook</a> |
+| 4.2      | Applied Data Analysis, part II: Visualization  | <a href='slides/4.2 Visualization.pdf'>slides</a> + <a href='notebooks/4.2 Visualize.ipynb'>notebook</a> |
+| 5.1      | Applied Data Analysis, part III: Advanced topics  | <a href='notebooks/5.1 Modelling.ipynb'>notebook</a>|
+| 5.2      | Applied Data Analysis, part IV: Advanced application  | <a href='notebooks/5.2 Visualize, Model.ipynb'>notebook</a> |
 
 
 
