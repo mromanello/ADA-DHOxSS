@@ -1,11 +1,31 @@
 # ADA-DHOxSS2019
-Teaching materials for the Applied Data Analysis (ADA) workshop at DHOxSS 2019.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
 
-Slides: https://drive.google.com/open?id=1XaUFBMTXSo9XGkrB2n0YHHX3kxA6KA-e.
+Teaching materials for the [Applied Data Analysis (ADA) workshop](https://www.dhoxss.net/applied-data-analysis) at DHOxSS 2019.
 
-Working document: https://drive.google.com/open?id=1zxoIaMI_sJWLwNnlrkv7yDRCZio93EgpvOMPIdt1BOM.
+Authors/Convenors:
+- Giovanni Colavizza (University of Amsterdam)
+- Matteo Romanello (EPFL)
+
+## Syllabus
+
+| Day.session         | Topic           | Materials  |
+| ------------- |:-------------:| -----:|
+| 1.1      | Introductions | [slides](slides/1.1 Introduction.pdf) |
+| 1.2      | Data formats and Input/Output | [slides](slides/1.2 Import.pdf) + [notebook](notebooks/1.2 Import.ipynb) |
+| 2.1      | The Python data analysis stack, pt. I  | [slides](slides/1.2 Import.pdf) + [notebook](notebooks/2.1 Skills.ipynb) |
+| 2.2      | Tidy data pt.I-II  | [slides](slides/2.2 Tidy data.pdf) + [notebook](notebooks/2.2 Tidy data.ipynb) |
+| 3.1      | Tidy data pt.III | [slides](slides/3.1 Data wrangling.pdf) + [notebook](notebooks/2.2 Tidy data.ipynb) |
+| 3.2      | The Python data analysis stack, pt. II  | [notebook](notebooks/3.2 Skills, Wrangling.ipynb) |
+| 4.1      | Applied Data Analysis, part I: Basics  | [notebook](notebooks/4.1 Exploratory data analysis and working with texts.ipynb) |
+| 4.2      | Applied Data Analysis, part II: Visualization  | [slides](slides/4.2 Visualization.pdf) + [notebook](notebooks/4.2 Visualize.ipynb) |
+| 5.1      | Applied Data Analysis, part III: Advanced topics  | [notebook](notebooks/5.1 Modelling.ipynb) |
+| 5.2      | Applied Data Analysis, part IV: Advanced application  | [notebook](notebooks/5.2 Visualize, Model.ipynb) |
+
+
+
+
 
 ## Acknowledgements
 
@@ -19,4 +39,3 @@ Inspiration for ADA was given by the following courses/teachers:
 
 * Garrett Grolemund and Hadley Wickham, *R for data science*, https://r4ds.had.co.nz/index.html
 * Julia Silge and David Robinson, *Text mining with R: A tidy approach*, https://www.tidytextmining.com
-
