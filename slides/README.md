@@ -1,3 +1,3 @@
 # Slides
 
-Find them here: https://bit.ly/2NV8gDJ.
+This folder contains a PDF export of the GoogleDrive slides used during the workshop. 
