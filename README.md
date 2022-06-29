@@ -1,12 +1,12 @@
-# ADA-DHOxSS2019
+# ADA-DHOxSS
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
 
 
-Teaching materials for the [Applied Data Analysis (ADA) workshop](https://www.dhoxss.net/applied-data-analysis) at DHOxSS 2019.
+Teaching materials for the [Applied Data Analysis (ADA) workshop](https://www.dhoxss.net/applied-data-analysis) at DHOxSS.
 
 Authors/Convenors:
 - Giovanni Colavizza (University of Amsterdam)
-- Matteo Romanello (EPFL)
+- Matteo Romanello (University of Lausanne)
 
 ## Syllabus
 
@@ -25,8 +25,6 @@ Authors/Convenors:
 
 
 
-
-
 ## Acknowledgements
 
 Inspiration for ADA was given by the following courses/teachers:
@@ -34,8 +32,10 @@ Inspiration for ADA was given by the following courses/teachers:
 * Ryan Cordell's *Humanities Data Analysis* http://s17hda.ryancordell.org/schedule/
 * Massimo Franceschet's *Dear Data Science* http://users.dimi.uniud.it/~massimo.franceschet/ds/syllabus/syllabus.html
 * Bob West's *Applied Data Analysis (ADA)* https://dlab.epfl.ch/teaching/fall2018/cs401
+* Melanie Walsh's *Introduction to Cultural Analytics & Python* https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html
 
 ## References
 
 * Garrett Grolemund and Hadley Wickham, *R for data science*, https://r4ds.had.co.nz/index.html
 * Julia Silge and David Robinson, *Text mining with R: A tidy approach*, https://www.tidytextmining.com
+* Folgert Karsdorp, Mike Kestemont and Allen Riddell, *Humanities Data Analysis: Case Studies with Python*, https://www.humanitiesdataanalysis.org
