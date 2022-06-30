@@ -20,9 +20,9 @@ Authors/Convenors:
 | 3.2      | The Python data analysis stack, pt. II  |  <a href='notebooks/3.2 Skills, Wrangling.ipynb'>notebook</a> |
 | 4.1      | Applied data analysis, pt. I: The basics  | <a href='notebooks/4.1 Exploratory data analysis and working with texts.ipynb'>notebook</a> |
 | 4.2      | Applied data analysis, pt. II: Visualization  | <a href='slides/4.2 Visualization.pdf'>slides</a> + <a href='notebooks/4.2 Visualize.ipynb'>notebook</a> |
-| 5.1      | Applied data analysis, pt. III: Modeling  | <a href='notebooks/5.1 Modelling.ipynb'>notebook</a>|
-| 5.2      | Applied data analysis, pt. IV: Advanced application  | <a href='notebooks/5.2 Visualize, Model.ipynb'>notebook</a> |
-
+| 4.3      | Applied data analysis, pt. III: Modelling  | <a href='notebooks/4.3 Modelling.ipynb'>notebook</a> |
+| 5.1      | Social network analysis  | <a href='https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/00-Network-Analysis.html'>From Melanie Walsh's *Introduction to Cultural Analytics & Python*</a>|
+| 5.2      | Communicating results and epilogue  | <a href='slides/5.3 Communication.pdf'>slides</a> |
 
 
 ## Acknowledgements
