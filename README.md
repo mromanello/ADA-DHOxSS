@@ -1,15 +1,20 @@
-# ADA-DHOxSS2019
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
+# ADA-DHOxSS
+
+<!--[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3352830.svg)](https://doi.org/10.5281/zenodo.3352830)-->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master)
 
 
-Teaching materials for the [Applied Data Analysis (ADA) workshop](https://www.dhoxss.net/applied-data-analysis) at DHOxSS 2019.
+Teaching materials for the Applied Data Analysis (ADA) workshop at the Digital Humanities Oxford Summer School.
 
 Authors/Convenors:
 - Giovanni Colavizza (University of Amsterdam)
-- Matteo Romanello (EPFL)
+- Matteo Romanello (University of Lausanne)
 
 ## Syllabus
 
+TODO: add update syllabus
+
+<!--
 | Day.session         | Topic           | Materials  |
 | ------------- |-------------| -----:|
 | 1.1      | Introduction | <a href='slides/1.1 Introduction.pdf'>slides</a> |
@@ -22,10 +27,12 @@ Authors/Convenors:
 | 4.2      | Applied data analysis, pt. II: Visualization  | <a href='slides/4.2 Visualization.pdf'>slides</a> + <a href='notebooks/4.2 Visualize.ipynb'>notebook</a> |
 | 5.1      | Applied data analysis, pt. III: Modeling  | <a href='notebooks/5.1 Modelling.ipynb'>notebook</a>|
 | 5.2      | Applied data analysis, pt. IV: Advanced application  | <a href='notebooks/5.2 Visualize, Model.ipynb'>notebook</a> |
+-->
 
+## Archive of materials
 
-
-
+- ADA-DHOxSS2022 (coming soon)
+- ADA-DHOxSS2019 ( zenodo | GitHub )
 
 ## Acknowledgements
 
