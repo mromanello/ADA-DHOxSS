@@ -19,7 +19,8 @@ TODO: add update syllabus
 | Day.session         | Topic           | Materials  |
 | ------------- |-------------| -----:|
 | 1.1      | Introduction | <a href='slides/1.1 Introduction.pdf'>slides</a> |
-| 1.2      | Data formats and input/output | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/1.2 Import.ipynb'>notebook</a> |
+| 1.2      | Data carpentry | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/1.2 Import.ipynb'>notebook</a> |
+| 1.3      | Python refresher | [notebook](./notebooks/1.3%20Skills%20Python.ipynb) |
 | 2.1      | The Python data analysis stack, pt. I  | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/2.1 Skills.ipynb'>notebook</a> |
 | 2.2      | Tidy data pt.I-II  | <a href='slides/2.2 Tidy data.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a> |
 | 3.1      | Tidy data pt.III | <a href='slides/3.1 Data wrangling.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a>|
