@@ -21,9 +21,9 @@ TODO: add update syllabus
 | 1.1      | Introduction | <a href='slides/1.1 Introduction.pdf'>slides</a> |
 | 1.2      | Data carpentry | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/1.2 Import.ipynb'>notebook</a> |
 | 1.3      | Python refresher | [notebook](./notebooks/1.3%20Skills%20Python.ipynb) |
-| 2.1      | The Python data analysis stack, pt. I  | <a href='slides/1.2 Import.pdf'>slides</a> + <a href='notebooks/2.1 Skills.ipynb'>notebook</a> |
-| 2.2      | Tidy data pt.I-II  | <a href='slides/2.2 Tidy data.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a> |
-| 3.1      | Tidy data pt.III | <a href='slides/3.1 Data wrangling.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a>|
+| 1.4      | The Python data analysis stack, pt. I  | [notebook](./notebooks/1.4%20Skills%20Pandas.ipynb) |
+| 2.1      | Tidy data pt.I-II  | <a href='slides/2.2 Tidy data.pdf'>slides</a> + <a href='notebooks/2.2 Tidy data.ipynb'>notebook</a> |
+| 2.2      | Tidy data pt.III | [slides](slides/3.1 Data wrangling.pdf) + [notebook](./notebooks/2.2%20Wrangling.ipynb) |
 | 3.2      | The Python data analysis stack, pt. II  |  <a href='notebooks/3.2 Skills, Wrangling.ipynb'>notebook</a> |
 | 4.1      | Applied data analysis, pt. I: The basics  | <a href='notebooks/4.1 Exploratory data analysis and working with texts.ipynb'>notebook</a> |
 | 4.2      | Applied data analysis, pt. II: Visualization  | <a href='slides/4.2 Visualization.pdf'>slides</a> + <a href='notebooks/4.2 Visualize.ipynb'>notebook</a> |
