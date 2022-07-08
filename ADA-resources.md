@@ -6,7 +6,7 @@
 - [Constellate Tutorials](https://constellate.org/tutorials) for building a dataset from JSTOR for analysis
 
 ## Books
-- HDA. [*Humanities Data Analysis: Case Studies with Python*](https://www.humanitiesdataanalysis.org/)
+- HDA: [*Humanities Data Analysis: Case Studies with Python*](https://www.humanitiesdataanalysis.org/)
 - [Computational Analysis of Communication](https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680284)
 - Melanie Walsh,  [*Introduction to Cultural Analytics & Python*](https://doi.org/10.5281/zenodo.4411250), Version 1 (2021)
 - W.J.B. Mattingly, [*Introduction to Pandas in Python*](https://pandas.pythonhumanities.com/intro.html) (2021 but work-in-progress)
