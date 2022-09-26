@@ -72,6 +72,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Jupyterlab workspace
+*.jupyterlab-workspace
+
 # pyenv
 .python-version
 
