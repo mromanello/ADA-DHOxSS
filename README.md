@@ -5,13 +5,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS/master)
 
 
-Teaching materials for the Applied Data Analysis (ADA) activity strand at the [Digital Humanities Oxford Summer School](https://digital.humanities.ox.ac.uk/digital-humanities-oxford-summer-school).
-
-Authors/Convenors:
-- Matteo Romanello (University of Lausanne)
-- Nilo Pedrazzini (The Alan Turing Institute/University of Oxford)
+Teaching materials for the Applied Data Analysis (ADA) activity strand at the [Digital Humanities Oxford Summer School](https://digital.humanities.ox.ac.uk/digital-humanities-oxford-summer-school). The authors of these materials are Giovanni Colavizza and Matteo Romanello.
 
 ## Syllabus 2023
+
+Convenors:
+- Matteo Romanello (University of Lausanne)
+- Nilo Pedrazzini (The Alan Turing Institute/University of Oxford)
 
 
 | Day.session         | Topic           | Materials  |
@@ -30,6 +30,13 @@ Authors/Convenors:
 | 5.1      | Social network analysis  | [From Melanie Walsh's *ICAP*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/00-Network-Analysis.html) |
 | 5.2      | Communicating results and epilogue  | [slides](./slides/5.3%20Communication.pdf) |
 
+
+
+## Previous editions
+
+- 2022: Giovanni and Matteo Romanello ([archived teaching materials](https://github.com/mromanello/ADA-DHOxSS/releases/tag/v.2.0-2022))
+- 2020-2021: hiatus due to global pandemic
+- 2019: Giovanni Colavizza and Matteo Romanello ([archived teaching materials](https://github.com/mromanello/ADA-DHOxSS/releases/tag/v.1.0-2019))
 
 ## Acknowledgements
 
