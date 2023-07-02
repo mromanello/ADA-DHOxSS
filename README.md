@@ -9,9 +9,9 @@ Teaching materials for the Applied Data Analysis (ADA) activity strand at the [D
 
 Authors/Convenors:
 - Matteo Romanello (University of Lausanne)
-- Giovanni Colavizza (University of Amsterdam)
+- Nilo Pedrazzini (The Alan Turing Institute/University of Oxford)
 
-## Syllabus 2022
+## Syllabus 2023
 
 
 | Day.session         | Topic           | Materials  |
@@ -25,7 +25,7 @@ Authors/Convenors:
 | 2.3      | Data transformation with Pandas | [notebook](./notebooks/2.3%20Skills%2C%20Wrangling%20with%20Pandas.ipynb) |
 | 3.1      | Applied data analysis, pt. I: The basics  | [slides](./slides/3.2%20EDA.pdf) + [notebook](./notebooks/3.1%20Exploratory%20data%20analysis%20basics.ipynb) |
 | 3.2      | Applied data analysis, pt. II: Advanced  | [notebook](./notebooks/3.2%20Exploratory%20data%20analysis%20and%20working%20with%20texts.ipynb) |
-| 4.1      | Applied data analysis, pt. III: Visualization  | [slides](./slides/4.2%20Visualization.pdf) + [notebook](./notebooks/3.3%20Visualize.ipynb) |
+| 4.1      | Applied data analysis, pt. III: Visualization  | [slides](./slides/4.2%20Visualization.pdf) + [notebook](./notebooks/4.1%20Visualize.ipynb) |
 | 4.2      | Applied data analysis, pt. IV: Mapping  | [From Melanie Walsh's *ICAP*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html) |
 | 5.1      | Social network analysis  | [From Melanie Walsh's *ICAP*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/00-Network-Analysis.html) |
 | 5.2      | Communicating results and epilogue  | [slides](./slides/5.3%20Communication.pdf) |
