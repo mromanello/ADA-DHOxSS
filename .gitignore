@@ -105,3 +105,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+.gitattributes
+poetry.lock
+pyproject.toml
