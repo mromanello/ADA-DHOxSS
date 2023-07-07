@@ -10,7 +10,7 @@ spacy
 nltk
 sqlalchemy
 statsmodels
-bokeh==2.3.4
+bokeh==2.4.3
 networkx
 geopy
 folium
