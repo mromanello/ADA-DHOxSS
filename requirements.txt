@@ -10,3 +10,7 @@ spacy
 nltk
 sqlalchemy
 statsmodels
+bokeh==2.3.4
+networkx
+geopy
+folium
