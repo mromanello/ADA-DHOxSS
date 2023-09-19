@@ -10,8 +10,8 @@ Teaching materials for the Applied Data Analysis (ADA) activity strand at the [D
 ## Syllabus 2023
 
 Convenors:
-- Matteo Romanello (University of Lausanne)
-- Nilo Pedrazzini (The Alan Turing Institute/University of Oxford)
+- [Matteo Romanello](https://orcid.org/0000-0002-7406-6286) (University of Lausanne)
+- [Nilo Pedrazzini](https://orcid.org/0000-0003-3757-2961) (The Alan Turing Institute/University of Oxford)
 
 
 | Day.session         | Topic           | Materials  |
@@ -29,7 +29,6 @@ Convenors:
 | 4.2      | Applied data analysis, pt. IV: Mapping  | [From Melanie Walsh's *ICAP*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/07-Mapping/00-Mapping.html) |
 | 5.1      | Social network analysis  | [From Melanie Walsh's *ICAP*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/00-Network-Analysis.html) |
 | 5.2      | Communicating results and epilogue  | [slides](./slides/5.3%20Communication.pdf) |
-
 
 
 ## Previous editions
